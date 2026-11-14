@@ -1,0 +1,23 @@
+{
+  "prefixes": {
+    "GDB": {
+      "date": "2024-11-06",
+      "status": "verified"
+    },
+    "SC": {
+      "date": "2025-01-22",
+      "status": "verified"
+    }
+  },
+  "cards": {
+    "GDB_143": {
+      "date": "2024-10-11",
+      "status": "verified"
+    }
+  },
+  "sources": {
+    "GDB": "https://hearthstone.blizzard.com/ko-kr/news/24145979",
+    "SC": "https://hearthstone.blizzard.com/ko-kr/news/24166286",
+    "GDB_143": "https://hearthstone.blizzard.com/ko-kr/news/24145858"
+  }
+}
