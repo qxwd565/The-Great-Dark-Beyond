@@ -1,1 +1,92 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_010","dbfId":112867,"name":"저글링","type":"MINION","cardClass":"INVALID","rarity":"RARE","collectible":true,"cost":1,"text":"<b>전투의 함성:</b> 1/1 저글링을 소환합니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"2분 시점에 이 녀석들 8마리가 문간에 나타날 때까지는 그저 신나고 재미있죠.","spellSchool":"","portrait":"HS33-300_M.tif:d8334bc24b64492dacb56bd645a8c5d8","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":476,"name":"복수 직업","value":8453},{"id":1724,"name":"게임 태그 1724","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":2589,"name":"간판 카드 존재","value":1},{"id":3457,"name":"저그","value":1}],"races":[],"race":"","classes":["DEATHKNIGHT","HUNTER","WARLOCK","DEMONHUNTER"],"art":"art/SC_010.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-300_M.tif:d8334bc24b64492dacb56bd645a8c5d8","goldenMaterial":"SC_010_PremiumCard.mat:00abcc4b9c1efe64bbac4e3e5b725e47","goldenAnimation":"SC_010_PremiumCard.asset:ef74b053c33ef894f951abe15e226023"}}
+{
+  "2025-01-22": {
+    "id": "SC_010",
+    "dbfId": 112867,
+    "name": "저글링",
+    "type": "MINION",
+    "cardClass": "INVALID",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>전투의 함성:</b> 1/1 저글링을 소환합니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "2분 시점에 이 녀석들 8마리가 문간에 나타날 때까지는 그저 신나고 재미있죠.",
+    "spellSchool": "",
+    "portrait": "HS33-300_M.tif:d8334bc24b64492dacb56bd645a8c5d8",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 8453
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 3457,
+        "name": "저그",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "DEATHKNIGHT",
+      "HUNTER",
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "art": "art/SC_010.png"
+  }
+}

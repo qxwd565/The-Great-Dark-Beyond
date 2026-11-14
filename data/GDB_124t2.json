@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_124t2","dbfId":111928,"name":"지옥살이 무법자","type":"MINION","cardClass":"WARLOCK","collectible":false,"cost":6,"text":"<b>도발</b>","attack":6,"health":6,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS33-181_M.tif:9ed644a14ff04f20a6109e3980c1b4e1","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":6},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":9},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/GDB_124t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-181_M.tif:9ed644a14ff04f20a6109e3980c1b4e1","goldenMaterial":"GDB_124t2_PremiumCard.mat:33993008f1c4c404bb815151f1272758","goldenAnimation":"GDB_124t2_PremiumCard.asset:4cf44932c85e3a94a97468aa76c69d7b"}}
+{
+  "2024-11-06": {
+    "id": "GDB_124t2",
+    "dbfId": 111928,
+    "name": "지옥살이 무법자",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "collectible": false,
+    "cost": 6,
+    "text": "<b>도발</b>",
+    "attack": 6,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS33-181_M.tif:9ed644a14ff04f20a6109e3980c1b4e1",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/GDB_124t2.png"
+  }
+}

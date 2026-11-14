@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_845","dbfId":111073,"name":"레이저 탄막","type":"SPELL","cardClass":"HUNTER","rarity":"RARE","collectible":true,"cost":2,"text":"하수인에게 피해를 $3 줍니다.\n내가 <b>우주선</b>을 만드는 중이면,\n양옆의 하수인들에게도\n피해를 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"이륙한 후 궤도에서 현장 전체에 레이저 탄막을 퍼붓는 건 어떤가요? 만전을 기하려면 그 방법밖에 없습니다.\"","spellSchool":"","portrait":"HS33-160_S.tif:bfd377261170401482187bc7875c71fc","set":"SPACE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":3555,"name":"우주선","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_845.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-160_S.tif:bfd377261170401482187bc7875c71fc","goldenMaterial":"GDB_845_PremiumCard.mat:329d3b739b58b544caa557d59ad5fe4b","goldenAnimation":"GDB_845_PremiumCard.asset:911707e2241df9244a8ab8937976b0ff"}}
+{
+  "2024-11-06": {
+    "id": "GDB_845",
+    "dbfId": 111073,
+    "name": "레이저 탄막",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "하수인에게 피해를 $3 줍니다.<br></br>내가 <b>우주선</b>을 만드는 중이면,<br></br>양옆의 하수인들에게도<br></br>피해를 줍니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"이륙한 후 궤도에서 현장 전체에 레이저 탄막을 퍼붓는 건 어떤가요? 만전을 기하려면 그 방법밖에 없습니다.\"",
+    "spellSchool": "",
+    "portrait": "HS33-160_S.tif:bfd377261170401482187bc7875c71fc",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 3555,
+        "name": "우주선",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_845.png"
+  }
+}

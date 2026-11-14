@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_840","dbfId":110867,"name":"외계 알","type":"MINION","cardClass":"HUNTER","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>죽음의 메아리</b>:\n생명력이 가장 낮은 적을 공격하는 3/5 야수를 소환합니다.","attack":0,"health":2,"durability":0,"armor":0,"flavor":"반숙으로 할게요.","spellSchool":"","portrait":"HS33-156_M.tif:5babd5d22f4a457cb874129c72c0a5f1","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_840.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-156_M.tif:5babd5d22f4a457cb874129c72c0a5f1","goldenMaterial":"GDB_840_PremiumCard.mat:0ce7803976686a74eaf7fd9351894e63","goldenAnimation":"GDB_840_PremiumCard.asset:6d1188b58466eb24ab43d0f47f455ed3"}}
+{
+  "2024-11-06": {
+    "id": "GDB_840",
+    "dbfId": 110867,
+    "name": "외계 알",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>죽음의 메아리</b>:<br></br>생명력이 가장 낮은 적을 공격하는 3/5 야수를 소환합니다.",
+    "attack": 0,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "반숙으로 할게요.",
+    "spellSchool": "",
+    "portrait": "HS33-156_M.tif:5babd5d22f4a457cb874129c72c0a5f1",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_840.png"
+  }
+}

@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_019","dbfId":113664,"name":"울트라리스크 동굴","type":"LOCATION","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":3,"text":"모든 적에게 피해를 1 줍니다. <b>죽음의 메아리:</b> <b>속공</b> 능력이 있는 8/8 울트라리스크를 소환합니다.","attack":0,"health":3,"durability":3,"armor":0,"flavor":"울트라리스크가 오르막길에 걸리지 않게 조심하세요.","spellSchool":"","portrait":"HS33-317_L.tif:c0b2870fd45348709ed36257b2207555","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":39},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1},{"id":1724,"name":"게임 태그 1724","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":3457,"name":"저그","value":1}],"races":[],"race":"","classes":[],"art":"art/SC_019.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-317_L.tif:c0b2870fd45348709ed36257b2207555","goldenMaterial":"SC_019_PremiumCard.mat:63e9edded15e8b64c98bf945d9685e23","goldenAnimation":"SC_019_PremiumCard.asset:472f2064800f37343979c9590f2cf4c7"}}
+{
+  "2025-01-22": {
+    "id": "SC_019",
+    "dbfId": 113664,
+    "name": "울트라리스크 동굴",
+    "type": "LOCATION",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "모든 적에게 피해를 1 줍니다. <b>죽음의 메아리:</b> <b>속공</b> 능력이 있는 8/8 울트라리스크를 소환합니다.",
+    "attack": 0,
+    "health": 3,
+    "durability": 3,
+    "armor": 0,
+    "flavor": "울트라리스크가 오르막길에 걸리지 않게 조심하세요.",
+    "spellSchool": "",
+    "portrait": "HS33-317_L.tif:c0b2870fd45348709ed36257b2207555",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 39
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3457,
+        "name": "저그",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SC_019.png"
+  }
+}

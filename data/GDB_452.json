@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_452","dbfId":110973,"name":"아스카라의 방패","type":"MINION","cardClass":"PRIEST","rarity":"COMMON","collectible":true,"cost":6,"text":"<b>도발</b>\n<b>천상의 보호막</b>\n<b>생명력 흡수</b>","attack":4,"health":8,"durability":0,"armor":0,"flavor":"방패는 많을수록 좋습니다.","spellSchool":"","portrait":"HS33-043_M.tif:1cad4f0e93804bf3b6623bbf8026583f","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":6},{"id":190,"name":"도발","value":1},{"id":194,"name":"천상의 보호막","value":1},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":685,"name":"생명력 흡수","value":1}],"races":["DRAENEI"],"race":"드레나이","classes":[],"art":"art/GDB_452.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-043_M.tif:1cad4f0e93804bf3b6623bbf8026583f","goldenMaterial":"GDB_452_PremiumCard.mat:780689286351e0c48b52e19585fbf88c","goldenAnimation":"GDB_452_PremiumCard.asset:eca891651bed6a94eb1d3c959c69ea41"}}
+{
+  "2024-11-06": {
+    "id": "GDB_452",
+    "dbfId": 110973,
+    "name": "아스카라의 방패",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>도발</b><br></br><b>천상의 보호막</b><br></br><b>생명력 흡수</b>",
+    "attack": 4,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "방패는 많을수록 좋습니다.",
+    "spellSchool": "",
+    "portrait": "HS33-043_M.tif:1cad4f0e93804bf3b6623bbf8026583f",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAENEI"
+    ],
+    "race": "드레나이",
+    "classes": [],
+    "art": "art/GDB_452.png"
+  }
+}

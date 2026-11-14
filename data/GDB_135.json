@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_135","dbfId":111346,"name":"기발한 기술병","type":"MINION","cardClass":"MAGE","rarity":"RARE","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> 다음에\n내가 내는 드레나이의\n 공격력만큼 마나 수정을\n 회복합니다.","attack":4,"health":5,"durability":0,"armor":0,"flavor":"항상 자기가 정규 분포 곡선의 꼭대기에 있다고 으스댑니다.","spellSchool":"","portrait":"HS33-029_M.tif:0fcded61a833413ca8389a4218b303a6","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":4},{"id":200,"name":"종족","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["DRAENEI"],"race":"드레나이","classes":[],"art":"art/GDB_135.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-029_M.tif:0fcded61a833413ca8389a4218b303a6","goldenMaterial":"GDB_135_PremiumCard.mat:29c382092dfd03e489d14b35db771d4f","goldenAnimation":"GDB_135_PremiumCard.asset:30aa740ca4698624ab7f9fc9a968e241"}}
+{
+  "2024-11-06": {
+    "id": "GDB_135",
+    "dbfId": 111346,
+    "name": "기발한 기술병",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 다음에<br></br>내가 내는 드레나이의<br></br> 공격력만큼 마나 수정을<br></br> 회복합니다.",
+    "attack": 4,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "항상 자기가 정규 분포 곡선의 꼭대기에 있다고 으스댑니다.",
+    "spellSchool": "",
+    "portrait": "HS33-029_M.tif:0fcded61a833413ca8389a4218b303a6",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAENEI"
+    ],
+    "race": "드레나이",
+    "classes": [],
+    "art": "art/GDB_135.png"
+  }
+}

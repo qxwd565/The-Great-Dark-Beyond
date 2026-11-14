@@ -1,1 +1,58 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_331t3","dbfId":112377,"name":"자갈","type":"MINION","cardClass":"NEUTRAL","collectible":false,"cost":1,"text":"","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS33-185_M.tif:32a192e2c4f34814bb569e5ab649ff70","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/GDB_331t3.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-185_M.tif:32a192e2c4f34814bb569e5ab649ff70","goldenMaterial":"GDB_331t3_PremiumCard.mat:5da4026396c2ad6498f87f3890e160d3","goldenAnimation":"GDB_331t3_PremiumCard.asset:5c8a8da530a72c54983759453b97ff65"}}
+{
+  "2024-11-06": {
+    "id": "GDB_331t3",
+    "dbfId": 112377,
+    "name": "자갈",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS33-185_M.tif:32a192e2c4f34814bb569e5ab649ff70",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/GDB_331t3.png"
+  }
+}

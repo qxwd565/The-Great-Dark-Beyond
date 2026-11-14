@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_123","dbfId":111169,"name":"납치 광선","type":"SPELL","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":1,"text":"무작위 악마를 얻습니다.\n그 악마의 비용이 (2)\n감소합니다. 이번 턴에\n반복할 수 있습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"광선 주세요!","spellSchool":"SHADOW","portrait":"HS33-180_S.tif:b8ebc8fb26c943739df751103b68adbd","set":"SPACE","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1114,"name":"이번 턴 반복 사용","value":1},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/GDB_123.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-180_S.tif:b8ebc8fb26c943739df751103b68adbd","goldenMaterial":"GDB_123_PremiumCard.mat:4344fac15c8eb654ab84d43671df9cd5","goldenAnimation":"GDB_123_PremiumCard.asset:be89caf40ee4ae64db587f0e0e18b91b"}}
+{
+  "2024-11-06": {
+    "id": "GDB_123",
+    "dbfId": 111169,
+    "name": "납치 광선",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "무작위 악마를 얻습니다.<br></br>그 악마의 비용이 (2)<br></br>감소합니다. 이번 턴에<br></br>반복할 수 있습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "광선 주세요!",
+    "spellSchool": "SHADOW",
+    "portrait": "HS33-180_S.tif:b8ebc8fb26c943739df751103b68adbd",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1114,
+        "name": "이번 턴 반복 사용",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_123.png"
+  }
+}

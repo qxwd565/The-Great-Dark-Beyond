@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_322","dbfId":111991,"name":"빛이 주입된 마나호랑이","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":6,"text":"<b>속공</b>, <b><b>주문폭주</b>:</b>\n<b>천상의 보호막</b>을 얻습니다.","attack":6,"health":6,"durability":0,"armor":0,"flavor":"이런, 주입된 마나가 다 떨어졌네!","spellSchool":"","portrait":"HS33-112_M.tif:9a280c2681ea46fda2159be1d6ae6378","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":6},{"id":194,"name":"천상의 보호막","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1},{"id":1427,"name":"주문폭주","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/GDB_322.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-112_M.tif:9a280c2681ea46fda2159be1d6ae6378","goldenMaterial":"GDB_322_PremiumCard.mat:ca66b7045bf5f6d4a983e05dba101d92","goldenAnimation":"GDB_322_PremiumCard.asset:f2abc2afcaa93204cb5bf310ce309528"}}
+{
+  "2024-11-06": {
+    "id": "GDB_322",
+    "dbfId": 111991,
+    "name": "빛이 주입된 마나호랑이",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>속공</b>, <b><b>주문폭주</b>:</b><br></br><b>천상의 보호막</b>을 얻습니다.",
+    "attack": 6,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "이런, 주입된 마나가 다 떨어졌네!",
+    "spellSchool": "",
+    "portrait": "HS33-112_M.tif:9a280c2681ea46fda2159be1d6ae6378",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1427,
+        "name": "주문폭주",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/GDB_322.png"
+  }
+}

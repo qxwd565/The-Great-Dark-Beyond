@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_468","dbfId":111678,"name":"영혼을 일깨우는 자","type":"MINION","cardClass":"DEATHKNIGHT","rarity":"RARE","collectible":true,"cost":10,"text":"<b>도발</b>, <b>환생</b>\n<b>죽음의 메아리:</b> 다른 아군\n<b>죽음의 메아리</b> 하수인을\n부활시킵니다.","attack":8,"health":7,"durability":0,"armor":0,"flavor":"또 알람이야!? 5영겁만 더 잘 테니까 그때 깨워.","spellSchool":"","portrait":"HS33-004_M.tif:817df32685dd4d4e9a4537fb5e9b64f5","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":8},{"id":48,"name":"마나 비용","value":10},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":1},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1085,"name":"환생","value":1},{"id":2198,"name":"부정 룬","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_468.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-004_M.tif:817df32685dd4d4e9a4537fb5e9b64f5","goldenMaterial":"GDB_468_PremiumCard.mat:c13931ba9983986428bd44d2a2b1c222","goldenAnimation":"GDB_468_PremiumCard.asset:2d9e2ab2ce2ae3d44a0fa22d34a264ec"}}
+{
+  "2024-11-06": {
+    "id": "GDB_468",
+    "dbfId": 111678,
+    "name": "영혼을 일깨우는 자",
+    "type": "MINION",
+    "cardClass": "DEATHKNIGHT",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 10,
+    "text": "<b>도발</b>, <b>환생</b><br></br><b>죽음의 메아리:</b> 다른 아군<br></br><b>죽음의 메아리</b> 하수인을<br></br>부활시킵니다.",
+    "attack": 8,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "또 알람이야!? 5영겁만 더 잘 테니까 그때 깨워.",
+    "spellSchool": "",
+    "portrait": "HS33-004_M.tif:817df32685dd4d4e9a4537fb5e9b64f5",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 10
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1085,
+        "name": "환생",
+        "value": 1
+      },
+      {
+        "id": 2198,
+        "name": "부정 룬",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_468.png"
+  }
+}

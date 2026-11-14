@@ -1,1 +1,73 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_471t5","dbfId":111910,"name":"정찰 담당 선원","type":"MINION","cardClass":"DEMONHUNTER","collectible":false,"cost":4,"text":"<b>모면</b>, <b>전투의 함성:</b> 서로 붙어 있는 모든 선원을 소환합니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS33-139_M.tif:8fe800ead9aa461ab6312494409ee75d","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":2},{"id":202,"name":"카드 유형","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":1211,"name":"모면","value":1},{"id":3631,"name":"게임 태그 3631","value":1}],"races":["DRAENEI"],"race":"드레나이","classes":[],"art":"art/GDB_471t5.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-139_M.tif:8fe800ead9aa461ab6312494409ee75d","goldenMaterial":"GDB_471t5_PremiumCard.mat:9d435613670355a4099233b77776eed4","goldenAnimation":"GDB_471t5_PremiumCard.asset:267a8f4d1c7f41945bc33adb1529cba3"}}
+{
+  "2024-11-06": {
+    "id": "GDB_471t5",
+    "dbfId": 111910,
+    "name": "정찰 담당 선원",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "collectible": false,
+    "cost": 4,
+    "text": "<b>모면</b>, <b>전투의 함성:</b> 서로 붙어 있는 모든 선원을 소환합니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS33-139_M.tif:8fe800ead9aa461ab6312494409ee75d",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 1211,
+        "name": "모면",
+        "value": 1
+      },
+      {
+        "id": 3631,
+        "name": "게임 태그 3631",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAENEI"
+    ],
+    "race": "드레나이",
+    "classes": [],
+    "art": "art/GDB_471t5.png"
+  }
+}

@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_226","dbfId":110896,"name":"적대적 침략자","type":"MINION","cardClass":"WARRIOR","rarity":"COMMON","collectible":true,"cost":5,"text":"<b>전투의 함성</b>, <b>주문폭주</b>,\n<b>죽음의 메아리:</b>\n다른 <b>모든</b> 하수인에게\n피해를 2 줍니다.","attack":3,"health":5,"durability":0,"armor":0,"flavor":"\"내 도끼도!\" \"내 도끼도!\" \"내 도끼도!\"","spellSchool":"","portrait":"HS33-072_M.tif:65ebda2427124cb99c11b6cb5feb0b75","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":10},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1427,"name":"주문폭주","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/GDB_226.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-072_M.tif:65ebda2427124cb99c11b6cb5feb0b75","goldenMaterial":"GDB_226_PremiumCard.mat:c1b9057a931d25148860870c9dc6cb0c","goldenAnimation":"GDB_226_PremiumCard.asset:7b4b5b07a7cc44a488af4e2d9f360553"}}
+{
+  "2024-11-06": {
+    "id": "GDB_226",
+    "dbfId": 110896,
+    "name": "적대적 침략자",
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성</b>, <b>주문폭주</b>,<br></br><b>죽음의 메아리:</b><br></br>다른 <b>모든</b> 하수인에게<br></br>피해를 2 줍니다.",
+    "attack": 3,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"내 도끼도!\" \"내 도끼도!\" \"내 도끼도!\"",
+    "spellSchool": "",
+    "portrait": "HS33-072_M.tif:65ebda2427124cb99c11b6cb5feb0b75",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1427,
+        "name": "주문폭주",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/GDB_226.png"
+  }
+}

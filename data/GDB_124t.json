@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_124t","dbfId":111927,"name":"나쁜 징조","type":"SPELL","cardClass":"WARLOCK","rarity":"RARE","collectible":false,"cost":6,"text":"2턴 후에, <b>도발</b> 능력이 있는 6/6 악마를 둘 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"FEL","portrait":"HS33-067_S.tif:c59c7d5377234613b20eb5b22d9abefa","set":"SPACE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":48,"name":"마나 비용","value":6},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":535,"name":"퀘스트 완료 조건","value":2},{"id":1635,"name":"주문 속성","value":7},{"id":2311,"name":"목표","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_124t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-067_S.tif:c59c7d5377234613b20eb5b22d9abefa","goldenMaterial":"GDB_124_PremiumCard.mat:52a811acf81f38c4fbde5380bf3b8e25","goldenAnimation":"GDB_124_PremiumCard.asset:64215338694523c4e9d1a07d6b05e46c"}}
+{
+  "2024-11-06": {
+    "id": "GDB_124t",
+    "dbfId": 111927,
+    "name": "나쁜 징조",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "RARE",
+    "collectible": false,
+    "cost": 6,
+    "text": "2턴 후에, <b>도발</b> 능력이 있는 6/6 악마를 둘 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "FEL",
+    "portrait": "HS33-067_S.tif:c59c7d5377234613b20eb5b22d9abefa",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 535,
+        "name": "퀘스트 완료 조건",
+        "value": 2
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 7
+      },
+      {
+        "id": 2311,
+        "name": "목표",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_124t.png"
+  }
+}

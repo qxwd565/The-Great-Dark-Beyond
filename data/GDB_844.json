@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_844","dbfId":111071,"name":"상세한 기록","type":"SPELL","cardClass":"HUNTER","rarity":"COMMON","collectible":true,"cost":2,"text":"비용이 (5) 이상인 야수를 <b>발견</b>합니다.\n그 야수의 비용이 (2) 감소합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"랑가리 정찰병들은 굉장히 정확하게 기록한다는 점을 자랑스럽게 여깁니다.","spellSchool":"","portrait":"HS33-024_S.tif:5e92d1cb720f448aaf47f6fdd9e9291e","set":"SPACE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1650,"name":"연구 발견 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_844.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-024_S.tif:5e92d1cb720f448aaf47f6fdd9e9291e","goldenMaterial":"GDB_844_PremiumCard.mat:78ee5884d6256734f89ffcf922367e29","goldenAnimation":"GDB_844_PremiumCard.asset:8d8897ae06ed3d0428ed8878eb1b20aa"}}
+{
+  "2024-11-06": {
+    "id": "GDB_844",
+    "dbfId": 111071,
+    "name": "상세한 기록",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "비용이 (5) 이상인 야수를 <b>발견</b>합니다.<br></br>그 야수의 비용이 (2) 감소합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "랑가리 정찰병들은 굉장히 정확하게 기록한다는 점을 자랑스럽게 여깁니다.",
+    "spellSchool": "",
+    "portrait": "HS33-024_S.tif:5e92d1cb720f448aaf47f6fdd9e9291e",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1650,
+        "name": "연구 발견 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_844.png"
+  }
+}

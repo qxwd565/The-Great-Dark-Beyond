@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_851a","dbfId":113436,"name":"치명적인 광선","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":2,"text":"무작위 적 하수인\n둘에게 피해를\n$2 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"ARCANE","portrait":"HS33-151_S.tif:879a9f676c19429799fd00e118bab035","set":"SPACE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":1635,"name":"주문 속성","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_851a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-151_S.tif:879a9f676c19429799fd00e118bab035","goldenMaterial":"GDB_851a_PremiumCard.mat:0054059f3fed58c42bf4529ec4bf995f","goldenAnimation":"GDB_851a_PremiumCard.asset:9b679acbaf857884f87fa6debb891ebd"}}
+{
+  "2024-11-06": {
+    "id": "GDB_851a",
+    "dbfId": 113436,
+    "name": "치명적인 광선",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 2,
+    "text": "무작위 적 하수인<br></br>둘에게 피해를<br></br>$2 줍니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "ARCANE",
+    "portrait": "HS33-151_S.tif:879a9f676c19429799fd00e118bab035",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_851a.png"
+  }
+}

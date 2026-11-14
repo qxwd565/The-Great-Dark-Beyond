@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_104","dbfId":110113,"name":"지옥불 추진기","type":"MINION","cardClass":"WARLOCK","rarity":"RARE","collectible":true,"cost":3,"text":"<b><b>주문폭주</b>:</b> 무작위 적\n하수인 둘에게 이 하수인의\n공격력만큼 피해를 줍니다.\n<b>우주선 부품</b>","attack":2,"health":4,"durability":0,"armor":0,"flavor":"불꽃 문양이 멋지다는 건 어디서나 통용되는 진리죠.","spellSchool":"","portrait":"HS33-066_M.tif:1d58d52391a5451799153f58ce1649d7","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1427,"name":"주문폭주","value":1},{"id":2589,"name":"간판 카드 존재","value":1},{"id":3555,"name":"우주선","value":1},{"id":3568,"name":"우주선 부품","value":1},{"id":3684,"name":"게임 태그 3684","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_104.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-066_M.tif:1d58d52391a5451799153f58ce1649d7","goldenMaterial":"GDB_104_PremiumCard.mat:0fb8eee4e25b3df4fbd2aac44b5d2f82","goldenAnimation":"GDB_104_PremiumCard.asset:e8f591ab933044c4e85d9afd00539a36"}}
+{
+  "2024-11-06": {
+    "id": "GDB_104",
+    "dbfId": 110113,
+    "name": "지옥불 추진기",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b><b>주문폭주</b>:</b> 무작위 적<br></br>하수인 둘에게 이 하수인의<br></br>공격력만큼 피해를 줍니다.<br></br><b>우주선 부품</b>",
+    "attack": 2,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "불꽃 문양이 멋지다는 건 어디서나 통용되는 진리죠.",
+    "spellSchool": "",
+    "portrait": "HS33-066_M.tif:1d58d52391a5451799153f58ce1649d7",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1427,
+        "name": "주문폭주",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 3555,
+        "name": "우주선",
+        "value": 1
+      },
+      {
+        "id": 3568,
+        "name": "우주선 부품",
+        "value": 1
+      },
+      {
+        "id": 3684,
+        "name": "게임 태그 3684",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_104.png"
+  }
+}

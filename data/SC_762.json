@@ -1,1 +1,99 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_762","dbfId":113203,"name":"모선","type":"MINION","cardClass":"PRIEST","rarity":"EPIC","collectible":true,"cost":12,"text":"<b>도발</b>, <b>전투의 함성과 죽음의 메아리:</b> 무작위 프로토스 하수인을 둘 얻습니다.","attack":10,"health":10,"durability":0,"armor":0,"flavor":"모선이랑 이야기할 때도 입이 그렇게 더럽니?","spellSchool":"","portrait":"HS33-334_M.tif:372a704294b54c4695fe7cf2ab5416f2","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":10},{"id":47,"name":"공격력","value":10},{"id":48,"name":"마나 비용","value":12},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1724,"name":"게임 태그 1724","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":3469,"name":"프로토스","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/SC_762.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-334_M.tif:372a704294b54c4695fe7cf2ab5416f2","goldenMaterial":"SC_762_PremiumCard.mat:6a878a19eca11f547b573e39873ebe9b","goldenAnimation":"SC_762_PremiumCard.asset:54720f75c63fb45478652cd14179e0a4"}}
+{
+  "2025-01-22": {
+    "id": "SC_762",
+    "dbfId": 113203,
+    "name": "모선",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 12,
+    "text": "<b>도발</b>, <b>전투의 함성과 죽음의 메아리:</b> 무작위 프로토스 하수인을 둘 얻습니다.",
+    "attack": 10,
+    "health": 10,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "모선이랑 이야기할 때도 입이 그렇게 더럽니?",
+    "spellSchool": "",
+    "portrait": "HS33-334_M.tif:372a704294b54c4695fe7cf2ab5416f2",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 10
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 10
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 12
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3469,
+        "name": "프로토스",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/SC_762.png"
+  }
+}

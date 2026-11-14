@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_112","dbfId":110878,"name":"영혼결속 첨탑","type":"MINION","cardClass":"DEATHKNIGHT","rarity":"RARE","collectible":true,"cost":3,"text":"<b>죽음의 메아리:</b> 이 하수인의\n공격력과 비용이 같은 무작위\n하수인을 소환합니다. <i>(최대 10)</i>\n<b>우주선 부품</b>","attack":2,"health":2,"durability":0,"armor":0,"flavor":"그럼요. 우주선에는 죽은 사람이 득시글거리고 부서지기 쉬운 첨탑이 있어야 제맛이죠!","spellSchool":"","portrait":"HS33-003_M.tif:b2a5e9bb9b1b4d138c2b4aef34697be5","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":1},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2589,"name":"간판 카드 존재","value":1},{"id":3555,"name":"우주선","value":1},{"id":3568,"name":"우주선 부품","value":1},{"id":3684,"name":"게임 태그 3684","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_112.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-003_M.tif:b2a5e9bb9b1b4d138c2b4aef34697be5","goldenMaterial":"GDB_112_PremiumCard.mat:8c347dd3881c5584da2e98e0eed16b59","goldenAnimation":"GDB_112_PremiumCard.asset:d43134ca04389da4ea2897887eb0819b"}}
+{
+  "2024-11-06": {
+    "id": "GDB_112",
+    "dbfId": 110878,
+    "name": "영혼결속 첨탑",
+    "type": "MINION",
+    "cardClass": "DEATHKNIGHT",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>죽음의 메아리:</b> 이 하수인의<br></br>공격력과 비용이 같은 무작위<br></br>하수인을 소환합니다. <i>(최대 10)</i><br></br><b>우주선 부품</b>",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "그럼요. 우주선에는 죽은 사람이 득시글거리고 부서지기 쉬운 첨탑이 있어야 제맛이죠!",
+    "spellSchool": "",
+    "portrait": "HS33-003_M.tif:b2a5e9bb9b1b4d138c2b4aef34697be5",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 3555,
+        "name": "우주선",
+        "value": 1
+      },
+      {
+        "id": 3568,
+        "name": "우주선 부품",
+        "value": 1
+      },
+      {
+        "id": 3684,
+        "name": "게임 태그 3684",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_112.png"
+  }
+}

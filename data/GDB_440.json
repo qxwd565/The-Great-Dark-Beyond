@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_440","dbfId":110839,"name":"혼란에 빠진 토차","type":"MINION","cardClass":"PRIEST","rarity":"EPIC","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> 양쪽 영웅의 생명력의 합이 정확히 42면, 내 영웅의 생명력이 42가 됩니다.","attack":4,"health":2,"durability":0,"armor":0,"flavor":"이 카드를 만들려고 초등학교 수학 선생님을 고용했습니다.","spellSchool":"","portrait":"HS33-170_M.tif:b926965adeac44dc9db15824f753db09","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_440.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-170_M.tif:b926965adeac44dc9db15824f753db09","goldenMaterial":"GDB_440_PremiumCard.mat:7e628c993c8d3bd4a808a7af0ee8f230","goldenAnimation":"GDB_440_PremiumCard.asset:4dd75821d46dc5040a3e12a2fb239771"}}
+{
+  "2024-11-06": {
+    "id": "GDB_440",
+    "dbfId": 110839,
+    "name": "혼란에 빠진 토차",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 양쪽 영웅의 생명력의 합이 정확히 42면, 내 영웅의 생명력이 42가 됩니다.",
+    "attack": 4,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "이 카드를 만들려고 초등학교 수학 선생님을 고용했습니다.",
+    "spellSchool": "",
+    "portrait": "HS33-170_M.tif:b926965adeac44dc9db15824f753db09",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_440.png"
+  }
+}

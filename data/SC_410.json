@@ -1,1 +1,76 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_410","dbfId":113211,"name":"이륙","type":"SPELL","cardClass":"INVALID","rarity":"COMMON","collectible":true,"cost":3,"text":"테란 카드를 2장 뽑습니다. 발사 시 효과가 있는 2/1 <b>우주선 부품</b>을 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"새다! 비행기다! 불타면서 지도 구석으로 천천히 움직이는 사령부다!","spellSchool":"","portrait":"HS33-349_S.tif:b97dec93fdf447b98a823be4bb0e8791","set":"SPACE","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":476,"name":"복수 직업","value":656},{"id":1724,"name":"게임 태그 1724","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":3458,"name":"테란","value":1},{"id":3555,"name":"우주선","value":1}],"races":[],"race":"","classes":["PALADIN","SHAMAN","WARRIOR"],"art":"art/SC_410.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-349_S.tif:b97dec93fdf447b98a823be4bb0e8791","goldenMaterial":"SC_410_PremiumCard.mat:6c4de35db573be347ab25c15373fa6a2","goldenAnimation":"SC_410_PremiumCard.asset:a66e72548dfbcce4c861791d8534201e"}}
+{
+  "2025-01-22": {
+    "id": "SC_410",
+    "dbfId": 113211,
+    "name": "이륙",
+    "type": "SPELL",
+    "cardClass": "INVALID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "테란 카드를 2장 뽑습니다. 발사 시 효과가 있는 2/1 <b>우주선 부품</b>을 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "새다! 비행기다! 불타면서 지도 구석으로 천천히 움직이는 사령부다!",
+    "spellSchool": "",
+    "portrait": "HS33-349_S.tif:b97dec93fdf447b98a823be4bb0e8791",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 656
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3458,
+        "name": "테란",
+        "value": 1
+      },
+      {
+        "id": 3555,
+        "name": "우주선",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "PALADIN",
+      "SHAMAN",
+      "WARRIOR"
+    ],
+    "art": "art/SC_410.png"
+  }
+}

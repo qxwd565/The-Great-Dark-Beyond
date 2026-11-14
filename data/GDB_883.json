@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_883","dbfId":114584,"name":"조난 신호","type":"SPELL","cardClass":"DRUID","rarity":"COMMON","collectible":true,"cost":4,"text":"비용이 2인 무작위\n하수인을 둘 소환합니다. 마나 수정을 2개 회복합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"도와줘요! 도와주세요! 상대편이 카드를 냈어요!","spellSchool":"ARCANE","portrait":"HS33-149_S.tif:999164ddcfe24421b74d5c59b5885e10","set":"SPACE","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_883.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-149_S.tif:999164ddcfe24421b74d5c59b5885e10","goldenMaterial":"GDB_883_PremiumCard.mat:ac4b836e389cbb44fbeea780d2ebb39e","goldenAnimation":"GDB_883_PremiumCard.asset:9f7faf3f470dcb94aaa4145647188167"}}
+{
+  "2024-11-06": {
+    "id": "GDB_883",
+    "dbfId": 114584,
+    "name": "조난 신호",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "비용이 2인 무작위<br></br>하수인을 둘 소환합니다. 마나 수정을 2개 회복합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "도와줘요! 도와주세요! 상대편이 카드를 냈어요!",
+    "spellSchool": "ARCANE",
+    "portrait": "HS33-149_S.tif:999164ddcfe24421b74d5c59b5885e10",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_883.png"
+  }
+}

@@ -1,1 +1,92 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_105","dbfId":110115,"name":"산산파편 포탑","type":"MINION","cardClass":"DEMONHUNTER","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>속공</b>, <b>질풍</b>\n<b>우주선 부품</b>","attack":2,"health":4,"durability":0,"armor":0,"flavor":"\"우현에 적이다! 엇... 근데 다 우현에 있잖아!!\"","spellSchool":"","portrait":"HS33-007_M.tif:1be769be95b440ad973aac77634d57aa","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":189,"name":"질풍","value":1},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1},{"id":2589,"name":"간판 카드 존재","value":1},{"id":3555,"name":"우주선","value":1},{"id":3568,"name":"우주선 부품","value":1},{"id":3684,"name":"게임 태그 3684","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_105.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-007_M.tif:1be769be95b440ad973aac77634d57aa","goldenMaterial":"GDB_105_PremiumCard.mat:46456ada34c50cb4cb8825f505e4ac8e","goldenAnimation":"GDB_105_PremiumCard.asset:951471d7da2104247a04240580416975"}}
+{
+  "2024-11-06": {
+    "id": "GDB_105",
+    "dbfId": 110115,
+    "name": "산산파편 포탑",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>속공</b>, <b>질풍</b><br></br><b>우주선 부품</b>",
+    "attack": 2,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"우현에 적이다! 엇... 근데 다 우현에 있잖아!!\"",
+    "spellSchool": "",
+    "portrait": "HS33-007_M.tif:1be769be95b440ad973aac77634d57aa",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 189,
+        "name": "질풍",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 3555,
+        "name": "우주선",
+        "value": 1
+      },
+      {
+        "id": 3568,
+        "name": "우주선 부품",
+        "value": 1
+      },
+      {
+        "id": 3684,
+        "name": "게임 태그 3684",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_105.png"
+  }
+}

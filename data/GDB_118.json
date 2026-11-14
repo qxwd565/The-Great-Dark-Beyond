@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_118","dbfId":110923,"name":"별 파괴자 조르토스","type":"MINION","cardClass":"DEMONHUNTER","rarity":"LEGENDARY","collectible":true,"cost":5,"text":"<b>전투의 함성:</b> 내 손의\n양쪽으로 별을 둘 가져옵니다. 두 별이 충돌하면, 모든 적에게 피해를 5 줍니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"설정에 충실하기 위해 원래 능력치가 50,000,000,000/50,000,000,000이었지만, 조금 너무 강력했습니다.","spellSchool":"","portrait":"HS33-011_M.tif:2017709076b04357b6608085381a7a57","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/GDB_118.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-011_M.tif:2017709076b04357b6608085381a7a57","goldenMaterial":"GDB_118_PremiumCard.mat:006d92eb557936246bbef63e472b4e09","goldenAnimation":"GDB_118_PremiumCard.asset:58f871d0985e71e4aa4115d23bde0c12"}}
+{
+  "2024-11-06": {
+    "id": "GDB_118",
+    "dbfId": 110923,
+    "name": "별 파괴자 조르토스",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 내 손의<br></br>양쪽으로 별을 둘 가져옵니다. 두 별이 충돌하면, 모든 적에게 피해를 5 줍니다.",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "설정에 충실하기 위해 원래 능력치가 50,000,000,000/50,000,000,000이었지만, 조금 너무 강력했습니다.",
+    "spellSchool": "",
+    "portrait": "HS33-011_M.tif:2017709076b04357b6608085381a7a57",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/GDB_118.png"
+  }
+}

@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_450","dbfId":110947,"name":"선임 길탐색자","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> 무작위<b>\n추가 효과</b>를 둘 얻습니다. 다음에\n내가 내는 드레나이도 그 추가\n효과를 얻습니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"우주 길에 빠삭합니다.","spellSchool":"","portrait":"HS33-110_M.tif:d2e4a2057b7341a4948e9533234a1398","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2934,"name":"추가 효과","value":1}],"races":["DRAENEI"],"race":"드레나이","classes":[],"art":"art/GDB_450.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-110_M.tif:d2e4a2057b7341a4948e9533234a1398","goldenMaterial":"GDB_450_PremiumCard.mat:9d5833e305b955144937c7ec3ad5bd2c","goldenAnimation":"GDB_450_PremiumCard.asset:32ed917c4ae36bc419601d5cc470c764"}}
+{
+  "2024-11-06": {
+    "id": "GDB_450",
+    "dbfId": 110947,
+    "name": "선임 길탐색자",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 무작위<b><br></br>추가 효과</b>를 둘 얻습니다. 다음에<br></br>내가 내는 드레나이도 그 추가<br></br>효과를 얻습니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "우주 길에 빠삭합니다.",
+    "spellSchool": "",
+    "portrait": "HS33-110_M.tif:d2e4a2057b7341a4948e9533234a1398",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2934,
+        "name": "추가 효과",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAENEI"
+    ],
+    "race": "드레나이",
+    "classes": [],
+    "art": "art/GDB_450.png"
+  }
+}

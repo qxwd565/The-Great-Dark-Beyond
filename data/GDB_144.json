@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_144","dbfId":111918,"name":"루미아","type":"MINION","cardClass":"PALADIN","rarity":"LEGENDARY","collectible":true,"cost":6,"text":"<b>생명력 흡수</b>\n영웅이 피해를 받은 후에,\n그 영웅이 이번 턴 동안\n<b>면역</b> 상태가 됩니다.","attack":9,"health":9,"durability":0,"armor":0,"flavor":"\"세계혼이 뭐야?\" \"지금껏 티탄의 보호를 받은 생명체 중 가장 수준 높은 생명체지. 게다가 구 모양이야! 구 모양이라고!\"","spellSchool":"","portrait":"HS33-040_M.tif:6136daf9e266440a9b076696e1d0159d","set":"SPACE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":9},{"id":47,"name":"공격력","value":9},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":240,"name":"면역","value":1},{"id":321,"name":"수집 가능","value":1},{"id":685,"name":"생명력 흡수","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_144.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-040_M.tif:6136daf9e266440a9b076696e1d0159d","goldenMaterial":"GDB_144_PremiumCard.mat:6341b7fd63b540345bbe0cd6b54a2539","goldenAnimation":"GDB_144_PremiumCard.asset:ebdbf9084205bac49b517f75573a93db"}}
+{
+  "2024-11-06": {
+    "id": "GDB_144",
+    "dbfId": 111918,
+    "name": "루미아",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>생명력 흡수</b><br></br>영웅이 피해를 받은 후에,<br></br>그 영웅이 이번 턴 동안<br></br><b>면역</b> 상태가 됩니다.",
+    "attack": 9,
+    "health": 9,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"세계혼이 뭐야?\" \"지금껏 티탄의 보호를 받은 생명체 중 가장 수준 높은 생명체지. 게다가 구 모양이야! 구 모양이라고!\"",
+    "spellSchool": "",
+    "portrait": "HS33-040_M.tif:6136daf9e266440a9b076696e1d0159d",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 9
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 9
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 240,
+        "name": "면역",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_144.png"
+  }
+}

@@ -1,1 +1,99 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_013","dbfId":113249,"name":"그런티","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":8,"text":"<b>전투의 함성:</b>\n무작위 멀록을 넷 소환한 후,\n적 하수인들에게 발사합니다.\n<i>(대상을 선택하세요!)</i>","attack":3,"health":4,"durability":0,"armor":0,"flavor":"<아옳옳옳, 때가 됐다.>","spellSchool":"","portrait":"HS33-126_M.tif:96409e03dc6f4ff583f64e8da455fe3e","set":"SPACE","nativeTags":[{"id":3,"name":"효과 수치 2","value":4},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":8},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":1932,"name":"다이아몬드 카드 존재","value":1},{"id":2108,"name":"대상 지정 화살표 유형","value":3}],"races":["MURLOC"],"race":"멀록","classes":[],"art":"art/SC_013.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-126_M.tif:96409e03dc6f4ff583f64e8da455fe3e","goldenMaterial":"SC_013_PremiumCard.mat:97d844ccd87f2c744ba0d3e8924fc75e","goldenAnimation":"SC_013_PremiumCard.asset:1993e99f6b894dd4db2a7a43a83a6a72"}}
+{
+  "2025-01-22": {
+    "id": "SC_013",
+    "dbfId": 113249,
+    "name": "그런티",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 8,
+    "text": "<b>전투의 함성:</b><br></br>무작위 멀록을 넷 소환한 후,<br></br>적 하수인들에게 발사합니다.<br></br><i>(대상을 선택하세요!)</i>",
+    "attack": 3,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "<아옳옳옳, 때가 됐다.>",
+    "spellSchool": "",
+    "portrait": "HS33-126_M.tif:96409e03dc6f4ff583f64e8da455fe3e",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 3,
+        "name": "효과 수치 2",
+        "value": 4
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 1932,
+        "name": "다이아몬드 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 2108,
+        "name": "대상 지정 화살표 유형",
+        "value": 3
+      }
+    ],
+    "races": [
+      "MURLOC"
+    ],
+    "race": "멀록",
+    "classes": [],
+    "art": "art/SC_013.png"
+  }
+}

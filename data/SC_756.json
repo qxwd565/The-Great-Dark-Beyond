@@ -1,1 +1,89 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_756","dbfId":113174,"name":"우주모함","type":"MINION","cardClass":"DRUID","rarity":"COMMON","collectible":true,"cost":12,"text":"내 턴이 끝날 때,\n무작위 적을 공격하는 4/1 요격기를 넷 소환합니다.","attack":2,"health":14,"durability":0,"armor":0,"flavor":"\"난 계속 전진한다.\"","spellSchool":"","portrait":"HS33-327_M.tif:fb734aaedf46472292868a406d4a3c36","set":"SPACE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":14},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":12},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1724,"name":"게임 태그 1724","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":3469,"name":"프로토스","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/SC_756.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-327_M.tif:fb734aaedf46472292868a406d4a3c36","goldenMaterial":"SC_756_PremiumCard.mat:8b22f169882fc3c48b0b1bc242b32621","goldenAnimation":"SC_756_PremiumCard.asset:128575ca1d2a65348a7cffcf4efe1a8e"}}
+{
+  "2025-01-22": {
+    "id": "SC_756",
+    "dbfId": 113174,
+    "name": "우주모함",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 12,
+    "text": "내 턴이 끝날 때,<br></br>무작위 적을 공격하는 4/1 요격기를 넷 소환합니다.",
+    "attack": 2,
+    "health": 14,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"난 계속 전진한다.\"",
+    "spellSchool": "",
+    "portrait": "HS33-327_M.tif:fb734aaedf46472292868a406d4a3c36",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 14
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 12
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3469,
+        "name": "프로토스",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/SC_756.png"
+  }
+}

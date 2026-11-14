@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_901","dbfId":113677,"name":"자외선 파괴자","type":"MINION","cardClass":"SHAMAN","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>전투의 함성:</b> 적 하수인 하나에게 피해를 3 줍니다. 소행성 3개를 내 덱에\n섞어 넣습니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"자외선 차단제가 더 필요할 겁니다. 지난 확장팩에서 쟁여 두길 잘했네요.","spellSchool":"","portrait":"HS33-057_M.tif:91cb7574d193469eb3460b502a4ad704","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/GDB_901.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-057_M.tif:91cb7574d193469eb3460b502a4ad704","goldenMaterial":"GDB_901_PremiumCard.mat:de329b189913f084e8f789e925de3539","goldenAnimation":"GDB_901_PremiumCard.asset:01f283bff4ceed74eabc5fb8e5996056"}}
+{
+  "2024-11-06": {
+    "id": "GDB_901",
+    "dbfId": 113677,
+    "name": "자외선 파괴자",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 적 하수인 하나에게 피해를 3 줍니다. 소행성 3개를 내 덱에<br></br>섞어 넣습니다.",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "자외선 차단제가 더 필요할 겁니다. 지난 확장팩에서 쟁여 두길 잘했네요.",
+    "spellSchool": "",
+    "portrait": "HS33-057_M.tif:91cb7574d193469eb3460b502a4ad704",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/GDB_901.png"
+  }
+}

@@ -1,1 +1,103 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_401","dbfId":112820,"name":"건설로봇","type":"MINION","cardClass":"INVALID","rarity":"RARE","collectible":true,"cost":1,"text":"<b>전투의 함성:</b> 내 다음 <b>우주선</b> 발사의 비용이 (2) 감소합니다.","attack":1,"health":3,"durability":0,"armor":0,"flavor":"여덟 시간 푹 자고 삼시 세 끼 다 챙겨먹는 병사 열 명만큼이나 가치 있습니다.","spellSchool":"","portrait":"HS33-341_M.tif:e1de1e9190aa432fbae39ed0e7309bfa","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":476,"name":"복수 직업","value":656},{"id":1724,"name":"게임 태그 1724","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":2589,"name":"간판 카드 존재","value":1},{"id":3458,"name":"테란","value":1},{"id":3555,"name":"우주선","value":1}],"races":["MECHANICAL"],"race":"기계","classes":["PALADIN","SHAMAN","WARRIOR"],"art":"art/SC_401.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-341_M.tif:e1de1e9190aa432fbae39ed0e7309bfa","goldenMaterial":"SC_401_PremiumCard.mat:8b06e6e9416041a4692d96558fb9ef4f","goldenAnimation":"SC_401_PremiumCard.asset:cf73a14ef584c7f429e6a712098bef11"}}
+{
+  "2025-01-22": {
+    "id": "SC_401",
+    "dbfId": 112820,
+    "name": "건설로봇",
+    "type": "MINION",
+    "cardClass": "INVALID",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>전투의 함성:</b> 내 다음 <b>우주선</b> 발사의 비용이 (2) 감소합니다.",
+    "attack": 1,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "여덟 시간 푹 자고 삼시 세 끼 다 챙겨먹는 병사 열 명만큼이나 가치 있습니다.",
+    "spellSchool": "",
+    "portrait": "HS33-341_M.tif:e1de1e9190aa432fbae39ed0e7309bfa",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 656
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 3458,
+        "name": "테란",
+        "value": 1
+      },
+      {
+        "id": 3555,
+        "name": "우주선",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [
+      "PALADIN",
+      "SHAMAN",
+      "WARRIOR"
+    ],
+    "art": "art/SC_401.png"
+  }
+}

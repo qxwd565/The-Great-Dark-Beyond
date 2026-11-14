@@ -1,1 +1,51 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_851b","dbfId":114206,"name":"기절의 별","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":2,"text":"적 하수인을 선택합니다.\n그 하수인이 2턴 동안\n<b>휴면</b> 상태가 됩니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"ARCANE","portrait":"HS33-152_S.tif:afbfbb7c06c74743a97b2f1010f20fba","set":"SPACE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":1518,"name":"휴면","value":1},{"id":1635,"name":"주문 속성","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_851b.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-152_S.tif:afbfbb7c06c74743a97b2f1010f20fba","goldenMaterial":"GDB_851b_PremiumCard.mat:f5c88cfd5fa927644a1cbe9e0def8ffa","goldenAnimation":"GDB_851b_PremiumCard.asset:5c49d824743f61549ac1bda22eb434c4"}}
+{
+  "2024-11-06": {
+    "id": "GDB_851b",
+    "dbfId": 114206,
+    "name": "기절의 별",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 2,
+    "text": "적 하수인을 선택합니다.<br></br>그 하수인이 2턴 동안<br></br><b>휴면</b> 상태가 됩니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "ARCANE",
+    "portrait": "HS33-152_S.tif:afbfbb7c06c74743a97b2f1010f20fba",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 1518,
+        "name": "휴면",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_851b.png"
+  }
+}

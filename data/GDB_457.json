@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_457","dbfId":111076,"name":"광속","type":"SPELL","cardClass":"PRIEST","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>잔상</b>, 하수인에게 +1/+2와 <b>속공</b>을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"속도... 내가 곧 속도다.","spellSchool":"HOLY","portrait":"HS33-042_S.tif:930b5f7b45d64d1698eab0b1d5771e5d","set":"SPACE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1},{"id":846,"name":"잔상","value":1},{"id":1635,"name":"주문 속성","value":5}],"races":[],"race":"","classes":[],"art":"art/GDB_457.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-042_S.tif:930b5f7b45d64d1698eab0b1d5771e5d","goldenMaterial":"GDB_457_PremiumCard.mat:cdb078876a656894b969c34369417649","goldenAnimation":"GDB_457_PremiumCard.asset:67a3e70bea7211e4794a27db6f5386b3"}}
+{
+  "2024-11-06": {
+    "id": "GDB_457",
+    "dbfId": 111076,
+    "name": "광속",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>잔상</b>, 하수인에게 +1/+2와 <b>속공</b>을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "속도... 내가 곧 속도다.",
+    "spellSchool": "HOLY",
+    "portrait": "HS33-042_S.tif:930b5f7b45d64d1698eab0b1d5771e5d",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 846,
+        "name": "잔상",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_457.png"
+  }
+}

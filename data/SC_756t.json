@@ -1,1 +1,68 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_756t","dbfId":113175,"name":"요격기","type":"MINION","cardClass":"DRUID","collectible":false,"cost":2,"text":"","attack":4,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS33-328_M.tif:678800308ba4457fa7237c163fcbeb91","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":1824,"name":"미니 세트","value":1},{"id":3469,"name":"프로토스","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/SC_756t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-328_M.tif:678800308ba4457fa7237c163fcbeb91","goldenMaterial":"SC_756t_PremiumCard.mat:1b7c9c8efa6244643b8762aba02fea59","goldenAnimation":"SC_756t_PremiumCard.asset:481b4df27133f634389dfb0bf81f4e02"}}
+{
+  "2025-01-22": {
+    "id": "SC_756t",
+    "dbfId": 113175,
+    "name": "요격기",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 2,
+    "text": "",
+    "attack": 4,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS33-328_M.tif:678800308ba4457fa7237c163fcbeb91",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3469,
+        "name": "프로토스",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/SC_756t.png"
+  }
+}

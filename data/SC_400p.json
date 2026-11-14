@@ -1,1 +1,60 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_400p","dbfId":112818,"name":"전투 자극제","type":"HERO_POWER","cardClass":"INVALID","collectible":false,"cost":2,"text":"<b>도발</b> 능력이 있는 2/2\n해병을 소환합니다. 내 테란\n하수인들에게 공격력을\n+2 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS33-351_HP.tif:9525109a3e964b71b58a353fb0c2a90f","set":"SPACE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":190,"name":"도발","value":1},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":10},{"id":476,"name":"복수 직업","value":656},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":["PALADIN","SHAMAN","WARRIOR"],"art":"art/SC_400p.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-351_HP.tif:9525109a3e964b71b58a353fb0c2a90f","goldenMaterial":"SC_400p_PremiumCard.mat:291d53b7aa1ed5745b0f8a527d7e6900","goldenAnimation":"SC_400p_PremiumCard.asset:66fe424a5cfd2b34b9fc0aa54d825945"}}
+{
+  "2025-01-22": {
+    "id": "SC_400p",
+    "dbfId": 112818,
+    "name": "전투 자극제",
+    "type": "HERO_POWER",
+    "cardClass": "INVALID",
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>도발</b> 능력이 있는 2/2<br></br>해병을 소환합니다. 내 테란<br></br>하수인들에게 공격력을<br></br>+2 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS33-351_HP.tif:9525109a3e964b71b58a353fb0c2a90f",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 10
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 656
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "PALADIN",
+      "SHAMAN",
+      "WARRIOR"
+    ],
+    "art": "art/SC_400p.png"
+  }
+}

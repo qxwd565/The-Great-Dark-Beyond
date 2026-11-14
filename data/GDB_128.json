@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_128","dbfId":111301,"name":"아키몬드","type":"MINION","cardClass":"WARLOCK","rarity":"LEGENDARY","collectible":true,"cost":6,"text":"<b>전투의 함성:</b> 게임이\n시작됐을 때 내 덱에 없었고 이번 게임에서 내가 낸 모든 악마를 소환합니다.","attack":6,"health":6,"durability":0,"armor":0,"flavor":"아키몬드는 힘을 찾으려고 살게라스와 손을 잡았고, 그럼으로써 불타는 군단에서 가장 강한 세력이 되어 수많은 행성들을 초토화했습니다... 그런데 끝에는 위습에게 죽었죠.","spellSchool":"","portrait":"HS33-070_M.tif:f576070dec5c4d8dbaa20ad18c3e9dd6","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":9},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1932,"name":"다이아몬드 카드 존재","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/GDB_128.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-070_M.tif:f576070dec5c4d8dbaa20ad18c3e9dd6","goldenMaterial":"GDB_128_PremiumCard.mat:31a10672e6f7b2f479f7889d64da6e99","goldenAnimation":"GDB_128_PremiumCard.asset:4c29113d46817c94897ef6a33a0ed37d"}}
+{
+  "2024-11-06": {
+    "id": "GDB_128",
+    "dbfId": 111301,
+    "name": "아키몬드",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>전투의 함성:</b> 게임이<br></br>시작됐을 때 내 덱에 없었고 이번 게임에서 내가 낸 모든 악마를 소환합니다.",
+    "attack": 6,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "아키몬드는 힘을 찾으려고 살게라스와 손을 잡았고, 그럼으로써 불타는 군단에서 가장 강한 세력이 되어 수많은 행성들을 초토화했습니다... 그런데 끝에는 위습에게 죽었죠.",
+    "spellSchool": "",
+    "portrait": "HS33-070_M.tif:f576070dec5c4d8dbaa20ad18c3e9dd6",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1932,
+        "name": "다이아몬드 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/GDB_128.png"
+  }
+}

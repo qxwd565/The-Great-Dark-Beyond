@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_751","dbfId":113164,"name":"차원 관문","type":"LOCATION","cardClass":"INVALID","rarity":"COMMON","collectible":true,"cost":4,"text":"다음에 내가 내는 프로토스 하수인의 비용이 (3) 감소합니다.","attack":0,"health":3,"durability":3,"armor":0,"flavor":"메타를 한 차원 끌어올릴 겁니다.","spellSchool":"","portrait":"HS33-321_L.tif:da350c32828b4ecbad6897bcb3afb3e5","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":202,"name":"카드 유형","value":39},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":476,"name":"복수 직업","value":106},{"id":1724,"name":"게임 태그 1724","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":3469,"name":"프로토스","value":1}],"races":[],"race":"","classes":["DRUID","MAGE","PRIEST","ROGUE"],"art":"art/SC_751.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-321_L.tif:da350c32828b4ecbad6897bcb3afb3e5","goldenMaterial":"SC_751_PremiumCard.mat:afd1cfec093c8754dbe92ded355da144","goldenAnimation":"SC_751_PremiumCard.asset:c7f0eb9541f92d44ebf10c577e93fecd"}}
+{
+  "2025-01-22": {
+    "id": "SC_751",
+    "dbfId": 113164,
+    "name": "차원 관문",
+    "type": "LOCATION",
+    "cardClass": "INVALID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "다음에 내가 내는 프로토스 하수인의 비용이 (3) 감소합니다.",
+    "attack": 0,
+    "health": 3,
+    "durability": 3,
+    "armor": 0,
+    "flavor": "메타를 한 차원 끌어올릴 겁니다.",
+    "spellSchool": "",
+    "portrait": "HS33-321_L.tif:da350c32828b4ecbad6897bcb3afb3e5",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 39
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 106
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3469,
+        "name": "프로토스",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "DRUID",
+      "MAGE",
+      "PRIEST",
+      "ROGUE"
+    ],
+    "art": "art/SC_751.png"
+  }
+}

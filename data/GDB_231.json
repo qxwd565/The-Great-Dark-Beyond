@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_231","dbfId":110911,"name":"수정 거대철퇴","type":"WEAPON","cardClass":"WARRIOR","rarity":"RARE","collectible":true,"cost":2,"text":"내 영웅이 공격한 후에,\n내 손에 있는 모든\n드레나이에게 공격력을\n+2 부여합니다.","attack":2,"health":0,"durability":2,"armor":0,"flavor":"철퇴와 거대철퇴의 차이점은... 모양뿐입니다!","spellSchool":"","portrait":"HS33-077_W.tif:768edb1c9a994695829fb88aa8cd4d57","set":"SPACE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":7},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_231.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-077_W.tif:768edb1c9a994695829fb88aa8cd4d57","goldenMaterial":"GDB_231_PremiumCard.mat:53dadf4b63513784c86e28400a377564","goldenAnimation":"GDB_231_PremiumCard.asset:db596936930448c4cb8f4a3be9fc93dc"}}
+{
+  "2024-11-06": {
+    "id": "GDB_231",
+    "dbfId": 110911,
+    "name": "수정 거대철퇴",
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "내 영웅이 공격한 후에,<br></br>내 손에 있는 모든<br></br>드레나이에게 공격력을<br></br>+2 부여합니다.",
+    "attack": 2,
+    "health": 0,
+    "durability": 2,
+    "armor": 0,
+    "flavor": "철퇴와 거대철퇴의 차이점은... 모양뿐입니다!",
+    "spellSchool": "",
+    "portrait": "HS33-077_W.tif:768edb1c9a994695829fb88aa8cd4d57",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_231.png"
+  }
+}

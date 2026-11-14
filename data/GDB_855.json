@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_855","dbfId":111005,"name":"별 관측자","type":"MINION","cardClass":"DRUID","rarity":"RARE","collectible":true,"cost":8,"text":"<b>모면, 도발</b>, <b>주문폭주:</b>\n이번 턴에 내 영웅에게 공격력을 +8 부여하고 방어도를 8 얻습니다.","attack":8,"health":8,"durability":0,"armor":0,"flavor":"별 관측과 배회는 별로 다르지 않습니다. 별을 짓밟는 부분만 빼면요.","spellSchool":"","portrait":"HS33-017_M.tif:97a60d2db7594526bfd815e8a0d6e808","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":8},{"id":48,"name":"마나 비용","value":8},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1211,"name":"모면","value":1},{"id":1427,"name":"주문폭주","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/GDB_855.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-017_M.tif:97a60d2db7594526bfd815e8a0d6e808","goldenMaterial":"GDB_855_PremiumCard.mat:872077a68ec1b884eb13e6bb66582616","goldenAnimation":"GDB_855_PremiumCard.asset:cf77faf79aad7fa4bb791d207c9e696b"}}
+{
+  "2024-11-06": {
+    "id": "GDB_855",
+    "dbfId": 111005,
+    "name": "별 관측자",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 8,
+    "text": "<b>모면, 도발</b>, <b>주문폭주:</b><br></br>이번 턴에 내 영웅에게 공격력을 +8 부여하고 방어도를 8 얻습니다.",
+    "attack": 8,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "별 관측과 배회는 별로 다르지 않습니다. 별을 짓밟는 부분만 빼면요.",
+    "spellSchool": "",
+    "portrait": "HS33-017_M.tif:97a60d2db7594526bfd815e8a0d6e808",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1211,
+        "name": "모면",
+        "value": 1
+      },
+      {
+        "id": 1427,
+        "name": "주문폭주",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/GDB_855.png"
+  }
+}

@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_330","dbfId":112028,"name":"우르줄 광전사","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>생명력 흡수</b>, <b><b>주문폭주</b>:</b> 무작위 적 하수인을 공격합니다.","attack":5,"health":1,"durability":0,"armor":0,"flavor":"불타는 군단에는 보기 흉한 것이 많지만, 마나 3짜리 5/1이야말로 그중 최악입니다!","spellSchool":"","portrait":"HS33-100_M.tif:52e961024d4541c6a277c5718b2692bc","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":685,"name":"생명력 흡수","value":1},{"id":1427,"name":"주문폭주","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/GDB_330.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-100_M.tif:52e961024d4541c6a277c5718b2692bc","goldenMaterial":"GDB_330_PremiumCard.mat:1515de6dd26a0d74aace52cdf8b674a1","goldenAnimation":"GDB_330_PremiumCard.asset:a487ee35ee8126e489056aadc3f0db9d"}}
+{
+  "2024-11-06": {
+    "id": "GDB_330",
+    "dbfId": 112028,
+    "name": "우르줄 광전사",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>생명력 흡수</b>, <b><b>주문폭주</b>:</b> 무작위 적 하수인을 공격합니다.",
+    "attack": 5,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "불타는 군단에는 보기 흉한 것이 많지만, 마나 3짜리 5/1이야말로 그중 최악입니다!",
+    "spellSchool": "",
+    "portrait": "HS33-100_M.tif:52e961024d4541c6a277c5718b2692bc",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 1427,
+        "name": "주문폭주",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/GDB_330.png"
+  }
+}

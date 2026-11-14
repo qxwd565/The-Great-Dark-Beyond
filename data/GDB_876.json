@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_876","dbfId":111386,"name":"우려먹는 조선공","type":"MINION","cardClass":"ROGUE","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>전투의 함성:</b> 다른 직업의 무작위 <b>우주선 부품</b>을 얻습니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"내 우주선은 네 우주선이다.","spellSchool":"","portrait":"HS33-174_M.tif:804acb1bd02e49c7897b6751f6cadf3c","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":7},{"id":200,"name":"종족","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2589,"name":"간판 카드 존재","value":1},{"id":3555,"name":"우주선","value":1}],"races":["DRAENEI"],"race":"드레나이","classes":[],"art":"art/GDB_876.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-174_M.tif:804acb1bd02e49c7897b6751f6cadf3c","goldenMaterial":"GDB_876_PremiumCard.mat:4e0f9bfae4636124992448d6185fea44","goldenAnimation":"GDB_876_PremiumCard.asset:6a2d5ba6bc41309419ec773833838494"}}
+{
+  "2024-11-06": {
+    "id": "GDB_876",
+    "dbfId": 111386,
+    "name": "우려먹는 조선공",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b> 다른 직업의 무작위 <b>우주선 부품</b>을 얻습니다.",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "내 우주선은 네 우주선이다.",
+    "spellSchool": "",
+    "portrait": "HS33-174_M.tif:804acb1bd02e49c7897b6751f6cadf3c",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 3555,
+        "name": "우주선",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAENEI"
+    ],
+    "race": "드레나이",
+    "classes": [],
+    "art": "art/GDB_876.png"
+  }
+}

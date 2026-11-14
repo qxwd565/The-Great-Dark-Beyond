@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_444","dbfId":110865,"name":"행성 항해사","type":"MINION","cardClass":"SHAMAN","rarity":"RARE","collectible":true,"cost":2,"text":"<b>전투의 함성:</b> 다음에 내가 내는 드레나이의 비용이 (2) 감소하지만 <b>과부하:</b> (2)를 얻습니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"\"전 의사가 아니라 항해사거든요!\"","spellSchool":"","portrait":"HS33-056_M.tif:635c74783a6e42eaa6fe52f4cfaf5b0a","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":215,"name":"과부하","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["DRAENEI"],"race":"드레나이","classes":[],"art":"art/GDB_444.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-056_M.tif:635c74783a6e42eaa6fe52f4cfaf5b0a","goldenMaterial":"GDB_444_PremiumCard.mat:fbb95b1cc2f3f5e499c7fc9de6c3b067","goldenAnimation":"GDB_444_PremiumCard.asset:f285ceb315404a94a97f38a8e0f2bad6"}}
+{
+  "2024-11-06": {
+    "id": "GDB_444",
+    "dbfId": 110865,
+    "name": "행성 항해사",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b> 다음에 내가 내는 드레나이의 비용이 (2) 감소하지만 <b>과부하:</b> (2)를 얻습니다.",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"전 의사가 아니라 항해사거든요!\"",
+    "spellSchool": "",
+    "portrait": "HS33-056_M.tif:635c74783a6e42eaa6fe52f4cfaf5b0a",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 215,
+        "name": "과부하",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAENEI"
+    ],
+    "race": "드레나이",
+    "classes": [],
+    "art": "art/GDB_444.png"
+  }
+}

@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_011","dbfId":112869,"name":"점막 종양","type":"SPELL","cardClass":"DEMONHUNTER","rarity":"COMMON","collectible":true,"cost":2,"text":"내 저그 하수인들이 공격력 +1과\n<b>속공</b>을 얻습니다.\n3턴 동안 지속됩니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"이게 보이면 물러나거나 흔적도 없이 태워 버려라. 절대로 적의 영역에서 싸우지 마라.\"","spellSchool":"","portrait":"HS33-310_S.tif:8a98a45c7f1e4bb1880fda94e2c73345","set":"SPACE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":535,"name":"퀘스트 완료 조건","value":3},{"id":791,"name":"속공","value":1},{"id":1724,"name":"게임 태그 1724","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":2311,"name":"목표","value":1},{"id":2329,"name":"목표 지속 효과","value":1},{"id":3457,"name":"저그","value":1}],"races":[],"race":"","classes":[],"art":"art/SC_011.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-310_S.tif:8a98a45c7f1e4bb1880fda94e2c73345","goldenMaterial":"SC_011_PremiumCard.mat:bf9b672131f7c26408f0db9b3f308d9e","goldenAnimation":"SC_011_PremiumCard.asset:ff5c26ceadc4d40448e52895676fd688"}}
+{
+  "2025-01-22": {
+    "id": "SC_011",
+    "dbfId": 112869,
+    "name": "점막 종양",
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "내 저그 하수인들이 공격력 +1과<br></br><b>속공</b>을 얻습니다.<br></br>3턴 동안 지속됩니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"이게 보이면 물러나거나 흔적도 없이 태워 버려라. 절대로 적의 영역에서 싸우지 마라.\"",
+    "spellSchool": "",
+    "portrait": "HS33-310_S.tif:8a98a45c7f1e4bb1880fda94e2c73345",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 535,
+        "name": "퀘스트 완료 조건",
+        "value": 3
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 2311,
+        "name": "목표",
+        "value": 1
+      },
+      {
+        "id": 2329,
+        "name": "목표 지속 효과",
+        "value": 1
+      },
+      {
+        "id": 3457,
+        "name": "저그",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SC_011.png"
+  }
+}

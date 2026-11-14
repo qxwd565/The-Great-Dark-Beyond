@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_100b","dbfId":110106,"name":"공격 대형","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"모든 적에게 <b>우주선</b>의 공격력만큼의 피해를 무작위로 나누어 입힙니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS33-116_S.tif:916662e78c334eba8761954cfae726ff","set":"SPACE","nativeTags":[{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":684,"name":"비용 숨김","value":1},{"id":3555,"name":"우주선","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_100b.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-116_S.tif:916662e78c334eba8761954cfae726ff","goldenMaterial":"GDB_100b_PremiumCard.mat:1242f0df0e957f843840e8a7bbead798","goldenAnimation":"GDB_100b_PremiumCard.asset:026e02cc764ce164287e3eab3331f0ef"}}
+{
+  "2024-11-06": {
+    "id": "GDB_100b",
+    "dbfId": 110106,
+    "name": "공격 대형",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "모든 적에게 <b>우주선</b>의 공격력만큼의 피해를 무작위로 나누어 입힙니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS33-116_S.tif:916662e78c334eba8761954cfae726ff",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      },
+      {
+        "id": 3555,
+        "name": "우주선",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_100b.png"
+  }
+}

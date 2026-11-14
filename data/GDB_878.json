@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_878","dbfId":111415,"name":"두뇌아가미","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>전투의 함성:</b> 내 다른 멀록들에게 \"<b>죽음의 메아리:</b> 카드를 뽑음\" 능력을 부여합니다.","attack":2,"health":1,"durability":0,"armor":0,"flavor":"\"대단히 비생선적인 논의로군요, 선장님.\"","spellSchool":"","portrait":"HS33-099_M.tif:c2d8c71d7f6a4eb8b9c4291b03ec81d1","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["MURLOC"],"race":"멀록","classes":[],"art":"art/GDB_878.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-099_M.tif:c2d8c71d7f6a4eb8b9c4291b03ec81d1","goldenMaterial":"GDB_878_PremiumCard.mat:6fb24ee8fd4855d4fa4f20e0932f157f","goldenAnimation":"GDB_878_PremiumCard.asset:602bbdee1c89ad345b877ccbe59278a9"}}
+{
+  "2024-11-06": {
+    "id": "GDB_878",
+    "dbfId": 111415,
+    "name": "두뇌아가미",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b> 내 다른 멀록들에게 \"<b>죽음의 메아리:</b> 카드를 뽑음\" 능력을 부여합니다.",
+    "attack": 2,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"대단히 비생선적인 논의로군요, 선장님.\"",
+    "spellSchool": "",
+    "portrait": "HS33-099_M.tif:c2d8c71d7f6a4eb8b9c4291b03ec81d1",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MURLOC"
+    ],
+    "race": "멀록",
+    "classes": [],
+    "art": "art/GDB_878.png"
+  }
+}

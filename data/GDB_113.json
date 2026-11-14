@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_113","dbfId":110880,"name":"공기 누출","type":"SPELL","cardClass":"DEATHKNIGHT","rarity":"RARE","collectible":true,"cost":6,"text":"<b>도발</b> 능력이 있는 5/5 \n언데드를 소환하고 내 영웅에게\n생명력을 +5 부여합니다.\n<b>시체</b>를 5개 소모해 반복합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"탈출정 구역 문을 열어라, 말라다르.","spellSchool":"","portrait":"HS33-127_S.tif:ddb5d800e89d4cd889f2e94726f5201d","set":"SPACE","nativeTags":[{"id":48,"name":"마나 비용","value":6},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":1},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":2196,"name":"혈기 룬","value":1},{"id":2198,"name":"부정 룬","value":1},{"id":2559,"name":"시체","value":1},{"id":4058,"name":"시체 소모","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_113.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-127_S.tif:ddb5d800e89d4cd889f2e94726f5201d","goldenMaterial":"GDB_113_PremiumCard.mat:014e9a36660d81444ad11982cb68438b","goldenAnimation":"GDB_113_PremiumCard.asset:eea761598b453334383eec24868779b1"}}
+{
+  "2024-11-06": {
+    "id": "GDB_113",
+    "dbfId": 110880,
+    "name": "공기 누출",
+    "type": "SPELL",
+    "cardClass": "DEATHKNIGHT",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>도발</b> 능력이 있는 5/5 <br></br>언데드를 소환하고 내 영웅에게<br></br>생명력을 +5 부여합니다.<br></br><b>시체</b>를 5개 소모해 반복합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "탈출정 구역 문을 열어라, 말라다르.",
+    "spellSchool": "",
+    "portrait": "HS33-127_S.tif:ddb5d800e89d4cd889f2e94726f5201d",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2196,
+        "name": "혈기 룬",
+        "value": 1
+      },
+      {
+        "id": 2198,
+        "name": "부정 룬",
+        "value": 1
+      },
+      {
+        "id": 2559,
+        "name": "시체",
+        "value": 1
+      },
+      {
+        "id": 4058,
+        "name": "시체 소모",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_113.png"
+  }
+}

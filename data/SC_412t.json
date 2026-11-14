@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_412t","dbfId":113858,"name":"화염기갑병","type":"MINION","cardClass":"PALADIN","rarity":"RARE","collectible":false,"cost":4,"text":"내 다른 하수인들이 공격력 +2와 <b>속공</b>을 얻습니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS33-355_M.tif:22beaf109801400eb79e328a558665ae","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":5},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":362,"name":"지속 효과","value":1},{"id":791,"name":"속공","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":3458,"name":"테란","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/SC_412t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-355_M.tif:22beaf109801400eb79e328a558665ae","goldenMaterial":"SC_412t_PremiumCard.mat:0c09daedb1ca59d4aa3c24401a088d7d","goldenAnimation":"SC_412t_PremiumCard.asset:03aff81c2408fc1419ed9dd0065e4520"}}
+{
+  "2025-01-22": {
+    "id": "SC_412t",
+    "dbfId": 113858,
+    "name": "화염기갑병",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "RARE",
+    "collectible": false,
+    "cost": 4,
+    "text": "내 다른 하수인들이 공격력 +2와 <b>속공</b>을 얻습니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS33-355_M.tif:22beaf109801400eb79e328a558665ae",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 362,
+        "name": "지속 효과",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3458,
+        "name": "테란",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/SC_412t.png"
+  }
+}

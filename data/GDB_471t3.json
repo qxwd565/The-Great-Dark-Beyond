@@ -1,1 +1,73 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_471t3","dbfId":111908,"name":"포격 담당 선원","type":"MINION","cardClass":"DEMONHUNTER","collectible":false,"cost":4,"text":"<b>속공</b>, <b>전투의 함성:</b> 서로 붙어 있는 모든 선원을 소환합니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS33-137_M.tif:ec0059e412494d51953154d037bc3e10","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":2},{"id":202,"name":"카드 유형","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":791,"name":"속공","value":1},{"id":3631,"name":"게임 태그 3631","value":1}],"races":["DRAENEI"],"race":"드레나이","classes":[],"art":"art/GDB_471t3.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-137_M.tif:ec0059e412494d51953154d037bc3e10","goldenMaterial":"GDB_471t3_PremiumCard.mat:a2d7537431bd77642bf5ae5576753cc5","goldenAnimation":"GDB_471t3_PremiumCard.asset:36a7de1175a2f0e41b35d0912cba24c2"}}
+{
+  "2024-11-06": {
+    "id": "GDB_471t3",
+    "dbfId": 111908,
+    "name": "포격 담당 선원",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "collectible": false,
+    "cost": 4,
+    "text": "<b>속공</b>, <b>전투의 함성:</b> 서로 붙어 있는 모든 선원을 소환합니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS33-137_M.tif:ec0059e412494d51953154d037bc3e10",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 3631,
+        "name": "게임 태그 3631",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAENEI"
+    ],
+    "race": "드레나이",
+    "classes": [],
+    "art": "art/GDB_471t3.png"
+  }
+}

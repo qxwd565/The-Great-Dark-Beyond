@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_430","dbfId":110737,"name":"소행성","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":1,"text":"<b>뽑을 때 시전</b> 무작위 적에게 피해를 $2 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS33-095_S.tif:35fdff9c6fe645c28032aabb8cc6781e","set":"SPACE","nativeTags":[{"id":2,"name":"효과 수치 1","value":2},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":1077,"name":"뽑을 때 시전","value":1},{"id":1724,"name":"게임 태그 1724","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_430.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-095_S.tif:35fdff9c6fe645c28032aabb8cc6781e","goldenMaterial":"GDB_430_PremiumCard.mat:74769eab4004701418fb9d7760e57afe","goldenAnimation":"GDB_430_PremiumCard.asset:e9b1d9b98ff009d4fa44901d98422689"}}
+{
+  "2024-11-06": {
+    "id": "GDB_430",
+    "dbfId": 110737,
+    "name": "소행성",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>뽑을 때 시전</b> 무작위 적에게 피해를 $2 줍니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS33-095_S.tif:35fdff9c6fe645c28032aabb8cc6781e",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 1077,
+        "name": "뽑을 때 시전",
+        "value": 1
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_430.png"
+  }
+}

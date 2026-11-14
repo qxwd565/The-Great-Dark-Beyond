@@ -1,1 +1,109 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_405","dbfId":112866,"name":"초고용량 축전기","type":"MINION","cardClass":"PALADIN","rarity":"RARE","collectible":true,"cost":2,"text":"<b>우주선 부품</b>, <b>전투의 함성:</b>\n다른 아군 하수인 하나당 +1/+1을 얻습니다. 발사 시에도 발동합니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"제 계산이 맞다면, 이 녀석이 시속 88마일에 도달하면...","spellSchool":"","portrait":"HS33-353_M.tif:1e53f5afe9cd43d9a3e426b5eedc256a","set":"SPACE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":5},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1724,"name":"게임 태그 1724","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":3458,"name":"테란","value":1},{"id":3555,"name":"우주선","value":1},{"id":3568,"name":"우주선 부품","value":1},{"id":3684,"name":"게임 태그 3684","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/SC_405.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-353_M.tif:1e53f5afe9cd43d9a3e426b5eedc256a","goldenMaterial":"SC_405_PremiumCard.mat:14b515b5c86b9394cab8c64b753e638a","goldenAnimation":"SC_405_PremiumCard.asset:2b82fba8f4410c94b9fbc617b94fc686"}}
+{
+  "2025-01-22": {
+    "id": "SC_405",
+    "dbfId": 112866,
+    "name": "초고용량 축전기",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>우주선 부품</b>, <b>전투의 함성:</b><br></br>다른 아군 하수인 하나당 +1/+1을 얻습니다. 발사 시에도 발동합니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "제 계산이 맞다면, 이 녀석이 시속 88마일에 도달하면...",
+    "spellSchool": "",
+    "portrait": "HS33-353_M.tif:1e53f5afe9cd43d9a3e426b5eedc256a",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3458,
+        "name": "테란",
+        "value": 1
+      },
+      {
+        "id": 3555,
+        "name": "우주선",
+        "value": 1
+      },
+      {
+        "id": 3568,
+        "name": "우주선 부품",
+        "value": 1
+      },
+      {
+        "id": 3684,
+        "name": "게임 태그 3684",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/SC_405.png"
+  }
+}

@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_331","dbfId":112029,"name":"갈라지는 운석","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":8,"text":"<b>죽음의 메아리:</b>\n4/4 갈라지는 바위를\n둘 소환합니다.","attack":8,"health":8,"durability":0,"armor":0,"flavor":"운석. 퓽. 운 석. 퓽. ㅇㅜㄴㅅㅓㄱ.","spellSchool":"","portrait":"HS33-113_M.tif:b788f3b3dbcc49799e4e1bcf7a6a5a7c","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":8},{"id":48,"name":"마나 비용","value":8},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/GDB_331.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-113_M.tif:b788f3b3dbcc49799e4e1bcf7a6a5a7c","goldenMaterial":"GDB_331_PremiumCard.mat:c843ea485ac52ba468ad04f224912e72","goldenAnimation":"GDB_331_PremiumCard.asset:9c5f64c5b61821a42929a36aa45c2a07"}}
+{
+  "2024-11-06": {
+    "id": "GDB_331",
+    "dbfId": 112029,
+    "name": "갈라지는 운석",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 8,
+    "text": "<b>죽음의 메아리:</b><br></br>4/4 갈라지는 바위를<br></br>둘 소환합니다.",
+    "attack": 8,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "운석. 퓽. 운 석. 퓽. ㅇㅜㄴㅅㅓㄱ.",
+    "spellSchool": "",
+    "portrait": "HS33-113_M.tif:b788f3b3dbcc49799e4e1bcf7a6a5a7c",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/GDB_331.png"
+  }
+}

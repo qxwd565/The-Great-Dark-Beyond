@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_471","dbfId":111906,"name":"보로나이 모집관","type":"MINION","cardClass":"DEMONHUNTER","rarity":"COMMON","collectible":true,"cost":2,"text":"내 턴이 끝날 때, 무작위 <b>추가 효과</b>를 얻은 4/4 선원을 얻습니다.","attack":2,"health":3,"durability":0,"armor":0,"flavor":"안대를 했지만 해적은 아닙니다. 모집관이지만 모집은 하지 않죠.","spellSchool":"","portrait":"HS33-134_M.tif:ecd52cf291e2417295df73104b2b948b","set":"SPACE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2934,"name":"추가 효과","value":1}],"races":["DRAENEI"],"race":"드레나이","classes":[],"art":"art/GDB_471.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-134_M.tif:ecd52cf291e2417295df73104b2b948b","goldenMaterial":"GDB_471_PremiumCard.mat:0e394bcccdd8a2e43bc4df1e9a16c421","goldenAnimation":"GDB_471_PremiumCard.asset:29c39940c9c991f458a6d3793268c755"}}
+{
+  "2024-11-06": {
+    "id": "GDB_471",
+    "dbfId": 111906,
+    "name": "보로나이 모집관",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "내 턴이 끝날 때, 무작위 <b>추가 효과</b>를 얻은 4/4 선원을 얻습니다.",
+    "attack": 2,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "안대를 했지만 해적은 아닙니다. 모집관이지만 모집은 하지 않죠.",
+    "spellSchool": "",
+    "portrait": "HS33-134_M.tif:ecd52cf291e2417295df73104b2b948b",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2934,
+        "name": "추가 효과",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAENEI"
+    ],
+    "race": "드레나이",
+    "classes": [],
+    "art": "art/GDB_471.png"
+  }
+}

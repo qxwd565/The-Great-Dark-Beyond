@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_759","dbfId":113178,"name":"보호막 충전소","type":"SPELL","cardClass":"MAGE","rarity":"COMMON","collectible":true,"cost":2,"text":"방어도를 6 얻습니다.\n내 다음 프로토스 주문의\n비용이 (2) 감소합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"아르타니스, 충전기 좀 빌려 써도 될까?","spellSchool":"","portrait":"HS33-330_S.tif:3ac8cfa1422142c5aa0b9a0a475daac2","set":"SPACE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1724,"name":"게임 태그 1724","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":3469,"name":"프로토스","value":1}],"races":[],"race":"","classes":[],"art":"art/SC_759.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-330_S.tif:3ac8cfa1422142c5aa0b9a0a475daac2","goldenMaterial":"SC_759_PremiumCard.mat:eab9d18be7fc31d4791e93f797dff271","goldenAnimation":"SC_759_PremiumCard.asset:f813fdafe4f8a0744a12f59a8439a045"}}
+{
+  "2025-01-22": {
+    "id": "SC_759",
+    "dbfId": 113178,
+    "name": "보호막 충전소",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "방어도를 6 얻습니다.<br></br>내 다음 프로토스 주문의<br></br>비용이 (2) 감소합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "아르타니스, 충전기 좀 빌려 써도 될까?",
+    "spellSchool": "",
+    "portrait": "HS33-330_S.tif:3ac8cfa1422142c5aa0b9a0a475daac2",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3469,
+        "name": "프로토스",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SC_759.png"
+  }
+}

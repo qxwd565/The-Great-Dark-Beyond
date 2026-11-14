@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_100c","dbfId":110107,"name":"선원 수송","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"<b>우주선</b>의 모든 <b>부품</b>을 복사하여 얻습니다. 그 부품들의 비용이 (1)이 됩니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS33-117_S.tif:204ba60223ad4ed2ae7fe58400bd9a87","set":"SPACE","nativeTags":[{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":684,"name":"비용 숨김","value":1},{"id":3555,"name":"우주선","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_100c.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-117_S.tif:204ba60223ad4ed2ae7fe58400bd9a87","goldenMaterial":"GDB_100c_PremiumCard.mat:a9ace2e8376befa4bba6469315d7655f","goldenAnimation":"GDB_100c_PremiumCard.asset:440b8d60bd9e033458b0a2cd28347c33"}}
+{
+  "2024-11-06": {
+    "id": "GDB_100c",
+    "dbfId": 110107,
+    "name": "선원 수송",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "<b>우주선</b>의 모든 <b>부품</b>을 복사하여 얻습니다. 그 부품들의 비용이 (1)이 됩니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS33-117_S.tif:204ba60223ad4ed2ae7fe58400bd9a87",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      },
+      {
+        "id": 3555,
+        "name": "우주선",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_100c.png"
+  }
+}

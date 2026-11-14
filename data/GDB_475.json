@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_475","dbfId":111969,"name":"궤도 위성","type":"SPELL","cardClass":"DEATHKNIGHT","rarity":"COMMON","collectible":true,"cost":1,"text":"하수인에게 <b>도발</b>과 <b>생명력 흡수</b>를 부여합니다. 내가 이번 턴에 옆의 카드를 냈다면, <b>환생</b>도 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"붉은 달이 다시 궤도를 돕니다.","spellSchool":"","portrait":"HS33-131_S.tif:0a570282d0fd443b94db5c290865aa41","set":"SPACE","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":1},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":685,"name":"생명력 흡수","value":1},{"id":1085,"name":"환생","value":1},{"id":1724,"name":"게임 태그 1724","value":1},{"id":2196,"name":"혈기 룬","value":2}],"races":[],"race":"","classes":[],"art":"art/GDB_475.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-131_S.tif:0a570282d0fd443b94db5c290865aa41","goldenMaterial":"GDB_475_PremiumCard.mat:ce1681b8a2dc7774cb59a5c82bf6197c","goldenAnimation":"GDB_475_PremiumCard.asset:b7d55a322bc142045bb83769c0890044"}}
+{
+  "2024-11-06": {
+    "id": "GDB_475",
+    "dbfId": 111969,
+    "name": "궤도 위성",
+    "type": "SPELL",
+    "cardClass": "DEATHKNIGHT",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "하수인에게 <b>도발</b>과 <b>생명력 흡수</b>를 부여합니다. 내가 이번 턴에 옆의 카드를 냈다면, <b>환생</b>도 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "붉은 달이 다시 궤도를 돕니다.",
+    "spellSchool": "",
+    "portrait": "HS33-131_S.tif:0a570282d0fd443b94db5c290865aa41",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 1085,
+        "name": "환생",
+        "value": 1
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 2196,
+        "name": "혈기 룬",
+        "value": 2
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_475.png"
+  }
+}

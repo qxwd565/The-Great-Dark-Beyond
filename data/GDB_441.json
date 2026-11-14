@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_441","dbfId":110840,"name":"수도자","type":"MINION","cardClass":"PRIEST","rarity":"RARE","collectible":true,"cost":3,"text":"다른 하수인이 <b>초과 치유</b>될 때마다, 그 하수인에게 그만큼 추가 생명력을 부여합니다.","attack":2,"health":4,"durability":0,"armor":0,"flavor":"사제는 수도하지 않으면 아무것도 아니죠.","spellSchool":"","portrait":"HS33-041_M.tif:1873598150c2436d86e1fd2430eb08ab","set":"SPACE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":2821,"name":"초과 치유","value":1}],"races":["DRAENEI"],"race":"드레나이","classes":[],"art":"art/GDB_441.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-041_M.tif:1873598150c2436d86e1fd2430eb08ab","goldenMaterial":"GDB_441_PremiumCard.mat:7b0c8c0ae5dc5a349a459d0288cddeb4","goldenAnimation":"GDB_441_PremiumCard.asset:49a37446fdb03c94abc2115ad5094470"}}
+{
+  "2024-11-06": {
+    "id": "GDB_441",
+    "dbfId": 110840,
+    "name": "수도자",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "다른 하수인이 <b>초과 치유</b>될 때마다, 그 하수인에게 그만큼 추가 생명력을 부여합니다.",
+    "attack": 2,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "사제는 수도하지 않으면 아무것도 아니죠.",
+    "spellSchool": "",
+    "portrait": "HS33-041_M.tif:1873598150c2436d86e1fd2430eb08ab",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2821,
+        "name": "초과 치유",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAENEI"
+    ],
+    "race": "드레나이",
+    "classes": [],
+    "art": "art/GDB_441.png"
+  }
+}

@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_755","dbfId":113173,"name":"수정탑 건설","type":"SPELL","cardClass":"DRUID","rarity":"COMMON","collectible":true,"cost":0,"text":"이번 턴에 내는 내 다음 프로토스 카드의 비용이 (2) 감소합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"수정탑을 더 건설해야 합니다...","spellSchool":"","portrait":"HS33-326_S.tif:6bc4a66931314dd684e48c131d52f97d","set":"SPACE","nativeTags":[{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1724,"name":"게임 태그 1724","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":3469,"name":"프로토스","value":1}],"races":[],"race":"","classes":[],"art":"art/SC_755.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-326_S.tif:6bc4a66931314dd684e48c131d52f97d","goldenMaterial":"SC_755_PremiumCard.mat:2c3773f9b8371f34396b7b3534d507e0","goldenAnimation":"SC_755_PremiumCard.asset:2fc4ee0ca38b0db4faaa6b1409a7dfa6"}}
+{
+  "2025-01-22": {
+    "id": "SC_755",
+    "dbfId": 113173,
+    "name": "수정탑 건설",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 0,
+    "text": "이번 턴에 내는 내 다음 프로토스 카드의 비용이 (2) 감소합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "수정탑을 더 건설해야 합니다...",
+    "spellSchool": "",
+    "portrait": "HS33-326_S.tif:6bc4a66931314dd684e48c131d52f97d",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3469,
+        "name": "프로토스",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SC_755.png"
+  }
+}

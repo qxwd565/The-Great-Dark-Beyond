@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_126","dbfId":111178,"name":"블랙홀","type":"SPELL","cardClass":"WARLOCK","rarity":"EPIC","collectible":true,"cost":8,"text":"악마들을 제외한 모든 하수인을 처치합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"맞아! 네모는 검은 구멍에 들어가는 거야.","spellSchool":"SHADOW","portrait":"HS33-069_S.tif:7af11ef8085d497a8dae8b1097445e9b","set":"SPACE","nativeTags":[{"id":48,"name":"마나 비용","value":8},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":6},{"id":2589,"name":"간판 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_126.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-069_S.tif:7af11ef8085d497a8dae8b1097445e9b","goldenMaterial":"GDB_126_PremiumCard.mat:05cfb09508d120843b8928c03a1981c6","goldenAnimation":"GDB_126_PremiumCard.asset:1ee8a15d53d34fc4e914115938c66eb3"}}
+{
+  "2024-11-06": {
+    "id": "GDB_126",
+    "dbfId": 111178,
+    "name": "블랙홀",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 8,
+    "text": "악마들을 제외한 모든 하수인을 처치합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "맞아! 네모는 검은 구멍에 들어가는 거야.",
+    "spellSchool": "SHADOW",
+    "portrait": "HS33-069_S.tif:7af11ef8085d497a8dae8b1097445e9b",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_126.png"
+  }
+}

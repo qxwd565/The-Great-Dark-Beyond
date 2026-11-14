@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_109","dbfId":110235,"name":"군단의 심장","type":"MINION","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>생명력 흡수</b>\n<b>우주선 부품</b>","attack":3,"health":2,"durability":0,"armor":0,"flavor":"겨울맞이 축제를 훔치려고 한 후에 크기가 3배로 불어났습니다.","spellSchool":"","portrait":"HS33-065_M.tif:0fe39a149a904fc9ab772d4a02839066","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":685,"name":"생명력 흡수","value":1},{"id":2589,"name":"간판 카드 존재","value":1},{"id":3555,"name":"우주선","value":1},{"id":3568,"name":"우주선 부품","value":1},{"id":3684,"name":"게임 태그 3684","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_109.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-065_M.tif:0fe39a149a904fc9ab772d4a02839066","goldenMaterial":"GDB_109_PremiumCard.mat:f3ceba44a87775943ae724ce8ae3fbe7","goldenAnimation":"GDB_109_PremiumCard.asset:7239dbfb02e6fe34aaab33ba99d06cbd"}}
+{
+  "2024-11-06": {
+    "id": "GDB_109",
+    "dbfId": 110235,
+    "name": "군단의 심장",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>생명력 흡수</b><br></br><b>우주선 부품</b>",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "겨울맞이 축제를 훔치려고 한 후에 크기가 3배로 불어났습니다.",
+    "spellSchool": "",
+    "portrait": "HS33-065_M.tif:0fe39a149a904fc9ab772d4a02839066",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 3555,
+        "name": "우주선",
+        "value": 1
+      },
+      {
+        "id": 3568,
+        "name": "우주선 부품",
+        "value": 1
+      },
+      {
+        "id": 3684,
+        "name": "게임 태그 3684",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_109.png"
+  }
+}

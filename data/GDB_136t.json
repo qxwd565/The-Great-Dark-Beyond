@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_136t","dbfId":111894,"name":"은하계의 렌즈","type":"LOCATION","cardClass":"SHAMAN","collectible":false,"cost":5,"text":"<b><b>주문폭주</b>:</b> 주문의 힘을 흡수합니다!","attack":0,"health":2,"durability":2,"armor":0,"flavor":"","spellSchool":"","portrait":"HS33-062_L.tif:1d480d07996d4ed9af3de8927898c84d","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":39},{"id":1427,"name":"주문폭주","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_136t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-062_L.tif:1d480d07996d4ed9af3de8927898c84d","goldenMaterial":"GDB_136t_PremiumCard.mat:a4c767aa40891c24b91ee3f8f40f1b0b","goldenAnimation":"GDB_136t_PremiumCard.asset:35c2e6b321cf753488bca56ec6a427af"}}
+{
+  "2024-11-06": {
+    "id": "GDB_136t",
+    "dbfId": 111894,
+    "name": "은하계의 렌즈",
+    "type": "LOCATION",
+    "cardClass": "SHAMAN",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b><b>주문폭주</b>:</b> 주문의 힘을 흡수합니다!",
+    "attack": 0,
+    "health": 2,
+    "durability": 2,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS33-062_L.tif:1d480d07996d4ed9af3de8927898c84d",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 39
+      },
+      {
+        "id": 1427,
+        "name": "주문폭주",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_136t.png"
+  }
+}

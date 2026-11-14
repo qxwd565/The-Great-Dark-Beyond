@@ -1,1 +1,66 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_003t","dbfId":113569,"name":"애벌레","type":"MINION","cardClass":"INVALID","collectible":false,"cost":1,"text":"이 하수인은 내 손에 있으면\n내 턴이 시작될 때마다\n무작위 저그 하수인으로 변신합니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS33-304_M.tif:cfc6ecffe01941509329a6f168bd2287","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":202,"name":"카드 유형","value":4},{"id":476,"name":"복수 직업","value":8453},{"id":1824,"name":"미니 세트","value":1},{"id":3457,"name":"저그","value":1}],"races":[],"race":"","classes":["DEATHKNIGHT","HUNTER","WARLOCK","DEMONHUNTER"],"art":"art/SC_003t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-304_M.tif:cfc6ecffe01941509329a6f168bd2287","goldenMaterial":"SC_003t_PremiumCard.mat:8de2330013a8c5440ad23e4c88edc852","goldenAnimation":"SC_003t_PremiumCard.asset:402fb34c38f7ffa41b6ade4ae824104f"}}
+{
+  "2025-01-22": {
+    "id": "SC_003t",
+    "dbfId": 113569,
+    "name": "애벌레",
+    "type": "MINION",
+    "cardClass": "INVALID",
+    "collectible": false,
+    "cost": 1,
+    "text": "이 하수인은 내 손에 있으면<br></br>내 턴이 시작될 때마다<br></br>무작위 저그 하수인으로 변신합니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS33-304_M.tif:cfc6ecffe01941509329a6f168bd2287",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 8453
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3457,
+        "name": "저그",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "DEATHKNIGHT",
+      "HUNTER",
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "art": "art/SC_003t.png"
+  }
+}

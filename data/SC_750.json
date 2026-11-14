@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_750","dbfId":113163,"name":"시간 증폭","type":"SPELL","cardClass":"INVALID","rarity":"COMMON","collectible":true,"cost":4,"text":"프로토스 카드를 2장 뽑습니다. <b>돌진</b> 능력이 있는 3/4 광전사를 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"이걸로 폭풍함을 얼마나 뽑을 수 있으려나! ...하, 솔직해지자. 그냥 탐사정이나 뽑아야지.","spellSchool":"","portrait":"HS33-320_S.tif:5ec9eb0d25b64684807b1672feeea6a5","set":"SPACE","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":197,"name":"돌진","value":1},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":476,"name":"복수 직업","value":106},{"id":1724,"name":"게임 태그 1724","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":3469,"name":"프로토스","value":1}],"races":[],"race":"","classes":["DRUID","MAGE","PRIEST","ROGUE"],"art":"art/SC_750.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-320_S.tif:5ec9eb0d25b64684807b1672feeea6a5","goldenMaterial":"SC_750_PremiumCard.mat:4f644d9d9cb863b4a9bfcb81bd1dd39f","goldenAnimation":"SC_750_PremiumCard.asset:5bb6e4a37b482aa4eb45ce5b1eba0862"}}
+{
+  "2025-01-22": {
+    "id": "SC_750",
+    "dbfId": 113163,
+    "name": "시간 증폭",
+    "type": "SPELL",
+    "cardClass": "INVALID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "프로토스 카드를 2장 뽑습니다. <b>돌진</b> 능력이 있는 3/4 광전사를 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "이걸로 폭풍함을 얼마나 뽑을 수 있으려나! ...하, 솔직해지자. 그냥 탐사정이나 뽑아야지.",
+    "spellSchool": "",
+    "portrait": "HS33-320_S.tif:5ec9eb0d25b64684807b1672feeea6a5",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 197,
+        "name": "돌진",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 106
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3469,
+        "name": "프로토스",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "DRUID",
+      "MAGE",
+      "PRIEST",
+      "ROGUE"
+    ],
+    "art": "art/SC_750.png"
+  }
+}

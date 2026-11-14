@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_102","dbfId":110110,"name":"우주선 설계도","type":"SPELL","cardClass":"ROGUE","rarity":"RARE","collectible":true,"cost":1,"text":"다른 직업의 <b>우주선 부품</b>을 <b>발견</b>합니다. 그 부품의 비용이 (1) 감소합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"원작 우주선을 레이저로 날려 버리면 표절이 아니죠.","spellSchool":"","portrait":"HS33-051_S.tif:8bd65006e2f54c07964a8475fe6188de","set":"SPACE","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1},{"id":2589,"name":"간판 카드 존재","value":1},{"id":3555,"name":"우주선","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_102.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-051_S.tif:8bd65006e2f54c07964a8475fe6188de","goldenMaterial":"GDB_102_PremiumCard.mat:96aaacfa884ea3e469d47bdfd842429f","goldenAnimation":"GDB_102_PremiumCard.asset:ae105d535ad94a54db86fd4b73fc956b"}}
+{
+  "2024-11-06": {
+    "id": "GDB_102",
+    "dbfId": 110110,
+    "name": "우주선 설계도",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "다른 직업의 <b>우주선 부품</b>을 <b>발견</b>합니다. 그 부품의 비용이 (1) 감소합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "원작 우주선을 레이저로 날려 버리면 표절이 아니죠.",
+    "spellSchool": "",
+    "portrait": "HS33-051_S.tif:8bd65006e2f54c07964a8475fe6188de",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 3555,
+        "name": "우주선",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_102.png"
+  }
+}

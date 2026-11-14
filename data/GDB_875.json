@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_875","dbfId":111338,"name":"운석 수집가","type":"MINION","cardClass":"ROGUE","rarity":"COMMON","collectible":true,"cost":1,"text":"<b>전투의 함성:</b> 다음에 내가 내는 <b>연계</b> 카드의 비용이 (1) 감소합니다.","attack":2,"health":1,"durability":0,"armor":0,"flavor":"웃석은 수집 안 하시나요?","spellSchool":"","portrait":"HS33-048_M.tif:d30bc62fd50d4d6aab3b31ca28fa2790","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":7},{"id":200,"name":"종족","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":220,"name":"연계","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["DRAENEI"],"race":"드레나이","classes":[],"art":"art/GDB_875.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-048_M.tif:d30bc62fd50d4d6aab3b31ca28fa2790","goldenMaterial":"GDB_875_PremiumCard.mat:32e5a1e39d3597445851a0b0efcd7619","goldenAnimation":"GDB_875_PremiumCard.asset:f31f21243d290534185e5b9a5dd11905"}}
+{
+  "2024-11-06": {
+    "id": "GDB_875",
+    "dbfId": 111338,
+    "name": "운석 수집가",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>전투의 함성:</b> 다음에 내가 내는 <b>연계</b> 카드의 비용이 (1) 감소합니다.",
+    "attack": 2,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "웃석은 수집 안 하시나요?",
+    "spellSchool": "",
+    "portrait": "HS33-048_M.tif:d30bc62fd50d4d6aab3b31ca28fa2790",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 220,
+        "name": "연계",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAENEI"
+    ],
+    "race": "드레나이",
+    "classes": [],
+    "art": "art/GDB_875.png"
+  }
+}

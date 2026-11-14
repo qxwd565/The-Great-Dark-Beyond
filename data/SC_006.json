@@ -1,1 +1,66 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_006","dbfId":112854,"name":"울트라리스크","type":"MINION","cardClass":"WARLOCK","collectible":false,"cost":8,"text":"<b>속공</b>","attack":8,"health":8,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS33-318_M.tif:8367f5cd1b0d4434a526e840a7757cd3","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":8},{"id":48,"name":"마나 비용","value":8},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4},{"id":791,"name":"속공","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":3457,"name":"저그","value":1}],"races":[],"race":"","classes":[],"art":"art/SC_006.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-318_M.tif:8367f5cd1b0d4434a526e840a7757cd3","goldenMaterial":"SC_006_PremiumCard.mat:52e250f55a2f6754d9ec490361241a6d","goldenAnimation":"SC_006_PremiumCard.asset:a542ada3778ff714a90d918d25ebbe06"}}
+{
+  "2025-01-22": {
+    "id": "SC_006",
+    "dbfId": 112854,
+    "name": "울트라리스크",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "collectible": false,
+    "cost": 8,
+    "text": "<b>속공</b>",
+    "attack": 8,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS33-318_M.tif:8367f5cd1b0d4434a526e840a7757cd3",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3457,
+        "name": "저그",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SC_006.png"
+  }
+}

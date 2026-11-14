@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_877","dbfId":111410,"name":"탈출정","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>속공</b>, <b>죽음의 메아리:</b> 양옆의 하수인들에게 +1/+1과 <b>속공</b>을 부여합니다.","attack":2,"health":1,"durability":0,"armor":0,"flavor":"덱에 두 개만 가지고 있을 수 있습니다. 드레나이가 탈출정이 더 필요할 정도로 다급한 상황에 처할 일은 절대 없을 거라고 <i>확신</i>하기 때문이죠!","spellSchool":"","portrait":"HS33-086_M.tif:ae04d0bc01434f88a3316fdd8cd91e58","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_877.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-086_M.tif:ae04d0bc01434f88a3316fdd8cd91e58","goldenMaterial":"GDB_877_PremiumCard.mat:ae54ef1d726bcbc44985ca7af1d8f1a5","goldenAnimation":"GDB_877_PremiumCard.asset:1bbabd8313df8cc479031ef22810b9ef"}}
+{
+  "2024-11-06": {
+    "id": "GDB_877",
+    "dbfId": 111410,
+    "name": "탈출정",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>속공</b>, <b>죽음의 메아리:</b> 양옆의 하수인들에게 +1/+1과 <b>속공</b>을 부여합니다.",
+    "attack": 2,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "덱에 두 개만 가지고 있을 수 있습니다. 드레나이가 탈출정이 더 필요할 정도로 다급한 상황에 처할 일은 절대 없을 거라고 <i>확신</i>하기 때문이죠!",
+    "spellSchool": "",
+    "portrait": "HS33-086_M.tif:ae04d0bc01434f88a3316fdd8cd91e58",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_877.png"
+  }
+}

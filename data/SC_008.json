@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_008","dbfId":112859,"name":"히드라리스크","type":"MINION","cardClass":"HUNTER","rarity":"RARE","collectible":true,"cost":3,"text":"<b>전투의 함성:</b> 무작위 적에게 피해를 2 줍니다. 내 전장에 있는 다른 저그 하수인의 수만큼 반복합니다.","attack":4,"health":2,"durability":0,"armor":0,"flavor":"푸슉! 푸슉! 푸슉! 푸슉! 푸슉!","spellSchool":"","portrait":"HS33-311_M.tif:aa43031942c843c7b7e74875bc36b8d7","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1724,"name":"게임 태그 1724","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":3457,"name":"저그","value":1}],"races":[],"race":"","classes":[],"art":"art/SC_008.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-311_M.tif:aa43031942c843c7b7e74875bc36b8d7","goldenMaterial":"SC_008_PremiumCard.mat:ef625b86455419843b76d7a9b60b9676","goldenAnimation":"SC_008_PremiumCard.asset:8df3a54b7f6359941be06fc656b709f3"}}
+{
+  "2025-01-22": {
+    "id": "SC_008",
+    "dbfId": 112859,
+    "name": "히드라리스크",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 무작위 적에게 피해를 2 줍니다. 내 전장에 있는 다른 저그 하수인의 수만큼 반복합니다.",
+    "attack": 4,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "푸슉! 푸슉! 푸슉! 푸슉! 푸슉!",
+    "spellSchool": "",
+    "portrait": "HS33-311_M.tif:aa43031942c843c7b7e74875bc36b8d7",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3457,
+        "name": "저그",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SC_008.png"
+  }
+}

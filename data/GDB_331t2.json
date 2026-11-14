@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_331t2","dbfId":112376,"name":"갈라지는 돌","type":"MINION","cardClass":"NEUTRAL","collectible":false,"cost":2,"text":"<b>죽음의 메아리:</b>\n1/1 자갈을 둘 소환합니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS33-184_M.tif:cacbd26b91ea4956bffca5e6321a2b6b","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":217,"name":"죽음의 메아리","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/GDB_331t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-184_M.tif:cacbd26b91ea4956bffca5e6321a2b6b","goldenMaterial":"GDB_331t2_PremiumCard.mat:93bd575654da78d4086c73b458620535","goldenAnimation":"GDB_331t2_PremiumCard.asset:490df9b8843de31439f5bd95cd2e3461"}}
+{
+  "2024-11-06": {
+    "id": "GDB_331t2",
+    "dbfId": 112376,
+    "name": "갈라지는 돌",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>죽음의 메아리:</b><br></br>1/1 자갈을 둘 소환합니다.",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS33-184_M.tif:cacbd26b91ea4956bffca5e6321a2b6b",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/GDB_331t2.png"
+  }
+}

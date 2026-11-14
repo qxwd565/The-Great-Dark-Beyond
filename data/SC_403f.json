@@ -1,1 +1,97 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_403f","dbfId":113247,"name":"의료선","type":"MINION","cardClass":"INVALID","collectible":false,"cost":1,"text":"<b>우주선 부품</b>\n이 부품이 발사될 때,\n<b>도발</b> 능력이 있는 2/2 해병을\n둘 소환합니다.","attack":2,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS33-347_M.tif:9e10f6a1ac9c48ba9398ac981996dd15","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":1},{"id":190,"name":"도발","value":1},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":476,"name":"복수 직업","value":656},{"id":1824,"name":"미니 세트","value":1},{"id":3458,"name":"테란","value":1},{"id":3555,"name":"우주선","value":1},{"id":3568,"name":"우주선 부품","value":1},{"id":3684,"name":"게임 태그 3684","value":1},{"id":4013,"name":"우주선 발사 효과","value":1}],"races":["MECHANICAL"],"race":"기계","classes":["PALADIN","SHAMAN","WARRIOR"],"art":"art/SC_403f.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-347_M.tif:9e10f6a1ac9c48ba9398ac981996dd15","goldenMaterial":"SC_403f_PremiumCard.mat:e9abfdc47af0002478b5b8c7ae1d625a","goldenAnimation":"SC_403f_PremiumCard.asset:7052f6bb36f91e24488d4a2f07714981"}}
+{
+  "2025-01-22": {
+    "id": "SC_403f",
+    "dbfId": 113247,
+    "name": "의료선",
+    "type": "MINION",
+    "cardClass": "INVALID",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>우주선 부품</b><br></br>이 부품이 발사될 때,<br></br><b>도발</b> 능력이 있는 2/2 해병을<br></br>둘 소환합니다.",
+    "attack": 2,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS33-347_M.tif:9e10f6a1ac9c48ba9398ac981996dd15",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 656
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3458,
+        "name": "테란",
+        "value": 1
+      },
+      {
+        "id": 3555,
+        "name": "우주선",
+        "value": 1
+      },
+      {
+        "id": 3568,
+        "name": "우주선 부품",
+        "value": 1
+      },
+      {
+        "id": 3684,
+        "name": "게임 태그 3684",
+        "value": 1
+      },
+      {
+        "id": 4013,
+        "name": "우주선 발사 효과",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [
+      "PALADIN",
+      "SHAMAN",
+      "WARRIOR"
+    ],
+    "art": "art/SC_403f.png"
+  }
+}

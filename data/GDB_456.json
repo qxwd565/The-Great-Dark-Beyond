@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_456","dbfId":111067,"name":"자연 발화","type":"SPELL","cardClass":"MAGE","rarity":"COMMON","collectible":true,"cost":2,"text":"무작위 적에게 피해를 $4 줍니다. 내가 이전 턴에 정령을 냈다면, 대상을 선택합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"XD 종잡을 수가 없네요.","spellSchool":"FIRE","portrait":"HS33-165_S.tif:e97158ab205d43038fd6ee7f49c0cb54","set":"SPACE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":2}],"races":[],"race":"","classes":[],"art":"art/GDB_456.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-165_S.tif:e97158ab205d43038fd6ee7f49c0cb54","goldenMaterial":"GDB_456_PremiumCard.mat:b715116e322737542b1f464dcee91f91","goldenAnimation":"GDB_456_PremiumCard.asset:c71c9d45b17178348909cf0aae4bee70"}}
+{
+  "2024-11-06": {
+    "id": "GDB_456",
+    "dbfId": 111067,
+    "name": "자연 발화",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "무작위 적에게 피해를 $4 줍니다. 내가 이전 턴에 정령을 냈다면, 대상을 선택합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "XD 종잡을 수가 없네요.",
+    "spellSchool": "FIRE",
+    "portrait": "HS33-165_S.tif:e97158ab205d43038fd6ee7f49c0cb54",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 2
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_456.png"
+  }
+}

@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_765","dbfId":113739,"name":"고위 기사","type":"MINION","cardClass":"ROGUE","rarity":"RARE","collectible":true,"cost":6,"text":"<b>전투의 함성:</b> 모든 적에게 피해를 2 줍니다. <i>기사를 하나 더 내면 합체하여 집정관이 됩니다!</i>","attack":3,"health":5,"durability":0,"armor":0,"flavor":"이 일이 잘 안 풀리면, 사이오닉 폭풍 추적자가 되면 그만이야.","spellSchool":"","portrait":"HS33-338_M.tif:de76c726ff10416b97ccb05a708beed4","set":"SPACE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1724,"name":"게임 태그 1724","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":3469,"name":"프로토스","value":1}],"races":[],"race":"","classes":[],"art":"art/SC_765.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-338_M.tif:de76c726ff10416b97ccb05a708beed4","goldenMaterial":"SC_765_PremiumCard.mat:d1d232cb1c92fc94f952e5bb40d8198b","goldenAnimation":"SC_765_PremiumCard.asset:f889766d99a69d848b2f69b04a10b079"}}
+{
+  "2025-01-22": {
+    "id": "SC_765",
+    "dbfId": 113739,
+    "name": "고위 기사",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>전투의 함성:</b> 모든 적에게 피해를 2 줍니다. <i>기사를 하나 더 내면 합체하여 집정관이 됩니다!</i>",
+    "attack": 3,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "이 일이 잘 안 풀리면, 사이오닉 폭풍 추적자가 되면 그만이야.",
+    "spellSchool": "",
+    "portrait": "HS33-338_M.tif:de76c726ff10416b97ccb05a708beed4",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3469,
+        "name": "프로토스",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SC_765.png"
+  }
+}

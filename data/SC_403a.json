@@ -1,1 +1,92 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_403a","dbfId":113237,"name":"바이킹","type":"MINION","cardClass":"INVALID","collectible":false,"cost":1,"text":"<b>우주선 부품</b>\n이 부품이 발사될 때,\n방어도를 5 얻습니다.","attack":2,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS33-343_M.tif:5fd8a2cf5095413aac2fad48ca638c81","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":1},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":476,"name":"복수 직업","value":656},{"id":1824,"name":"미니 세트","value":1},{"id":3458,"name":"테란","value":1},{"id":3555,"name":"우주선","value":1},{"id":3568,"name":"우주선 부품","value":1},{"id":3684,"name":"게임 태그 3684","value":1},{"id":4013,"name":"우주선 발사 효과","value":1}],"races":["MECHANICAL"],"race":"기계","classes":["PALADIN","SHAMAN","WARRIOR"],"art":"art/SC_403a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-343_M.tif:5fd8a2cf5095413aac2fad48ca638c81","goldenMaterial":"SC_403a_PremiumCard.mat:362f21a70086ae44b8e7fe2dfa11a452","goldenAnimation":"SC_403a_PremiumCard.asset:9862dbbc4437ab8438100d840625ef41"}}
+{
+  "2025-01-22": {
+    "id": "SC_403a",
+    "dbfId": 113237,
+    "name": "바이킹",
+    "type": "MINION",
+    "cardClass": "INVALID",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>우주선 부품</b><br></br>이 부품이 발사될 때,<br></br>방어도를 5 얻습니다.",
+    "attack": 2,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS33-343_M.tif:5fd8a2cf5095413aac2fad48ca638c81",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 656
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3458,
+        "name": "테란",
+        "value": 1
+      },
+      {
+        "id": 3555,
+        "name": "우주선",
+        "value": 1
+      },
+      {
+        "id": 3568,
+        "name": "우주선 부품",
+        "value": 1
+      },
+      {
+        "id": 3684,
+        "name": "게임 태그 3684",
+        "value": 1
+      },
+      {
+        "id": 4013,
+        "name": "우주선 발사 효과",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [
+      "PALADIN",
+      "SHAMAN",
+      "WARRIOR"
+    ],
+    "art": "art/SC_403a.png"
+  }
+}

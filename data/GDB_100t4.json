@@ -1,1 +1,66 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_100t4","dbfId":113706,"name":"영혼의 통로호","type":"MINION","cardClass":"DEATHKNIGHT","collectible":false,"cost":0,"text":"<b>우주선</b>\n<i>(마나 (5)로 발사 가능)</i>","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS33-001_M.tif:c23c622d99434244b357fe1523228f45","set":"SPACE","nativeTags":[{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":1},{"id":202,"name":"카드 유형","value":4},{"id":684,"name":"비용 숨김","value":1},{"id":2589,"name":"간판 카드 존재","value":1},{"id":3471,"name":"생명력 숫자 숨김","value":1},{"id":3472,"name":"공격력 숫자 숨김","value":1},{"id":3555,"name":"우주선","value":1}],"races":[],"race":"","classes":[],"art":"art/GDB_100t4.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-001_M.tif:c23c622d99434244b357fe1523228f45","goldenMaterial":"GDB_100t4_PremiumCard.mat:75509268fbd0eb544820f8a3a38bbcc9","goldenAnimation":"GDB_100t4_PremiumCard.asset:0636c4ddeffb3ed43bd933ad759fee8a"}}
+{
+  "2024-11-06": {
+    "id": "GDB_100t4",
+    "dbfId": 113706,
+    "name": "영혼의 통로호",
+    "type": "MINION",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": false,
+    "cost": 0,
+    "text": "<b>우주선</b><br></br><i>(마나 (5)로 발사 가능)</i>",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS33-001_M.tif:c23c622d99434244b357fe1523228f45",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 3471,
+        "name": "생명력 숫자 숨김",
+        "value": 1
+      },
+      {
+        "id": 3472,
+        "name": "공격력 숫자 숨김",
+        "value": 1
+      },
+      {
+        "id": 3555,
+        "name": "우주선",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/GDB_100t4.png"
+  }
+}

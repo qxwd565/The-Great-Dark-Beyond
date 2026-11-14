@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_343","dbfId":112084,"name":"기묘한 변형물","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":3,"text":"<b>속공</b>, <b>도발</b>, <b>...<b>은신</b>?</b>","attack":2,"health":5,"durability":0,"armor":0,"flavor":"진짜 모르겠네... 완전 수수께끼야... 도무지 이해가 안 된다고... 왜 마나가 3인 거야?","spellSchool":"","portrait":"HS33-103_M.tif:cb96a320e4674bcf9ac91b047513dc98","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":190,"name":"도발","value":1},{"id":191,"name":"은신","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/GDB_343.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-103_M.tif:cb96a320e4674bcf9ac91b047513dc98","goldenMaterial":"GDB_343_PremiumCard.mat:b9101da4c8b7ef84f9202182e20606d5","goldenAnimation":"GDB_343_PremiumCard.asset:f0671d055978c1648804a48fd099c8eb"}}
+{
+  "2024-11-06": {
+    "id": "GDB_343",
+    "dbfId": 112084,
+    "name": "기묘한 변형물",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>속공</b>, <b>도발</b>, <b>...<b>은신</b>?</b>",
+    "attack": 2,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "진짜 모르겠네... 완전 수수께끼야... 도무지 이해가 안 된다고... 왜 마나가 3인 거야?",
+    "spellSchool": "",
+    "portrait": "HS33-103_M.tif:cb96a320e4674bcf9ac91b047513dc98",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 191,
+        "name": "은신",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/GDB_343.png"
+  }
+}

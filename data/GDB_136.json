@@ -1,1 +1,89 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_136","dbfId":111893,"name":"총독 하타루","type":"MINION","cardClass":"MAGE","rarity":"LEGENDARY","collectible":true,"cost":5,"text":"<b>전투의 함성:</b> 주문을\n<b>발견</b>합니다. 그 주문의 비용이\n(1) 감소합니다. 이번 턴에\n그 주문을 내면, 이 효과를\n반복합니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"불타는 군단에 비해 심하게 약세였던 드레나이는 살아남을 가망이 없었습니다... 그런데 아코나이트 수정이 발명되면서 상황이 바뀌었죠. 하타루와 기술병들에게, 사람들에게 힘을 실어 줄 방법이 생긴 것입니다.","spellSchool":"","portrait":"HS33-031_M.tif:cd806db099a041879e165fdf9be149b7","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":4},{"id":200,"name":"종족","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":["DRAENEI"],"race":"드레나이","classes":[],"art":"art/GDB_136.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-031_M.tif:cd806db099a041879e165fdf9be149b7","goldenMaterial":"GDB_136_PremiumCard.mat:7b7a14e3e2f0876419a133a8809fffe6","goldenAnimation":"GDB_136_PremiumCard.asset:5a89229b0e65bd143869f12285311d95"}}
+{
+  "2024-11-06": {
+    "id": "GDB_136",
+    "dbfId": 111893,
+    "name": "총독 하타루",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 주문을<br></br><b>발견</b>합니다. 그 주문의 비용이<br></br>(1) 감소합니다. 이번 턴에<br></br>그 주문을 내면, 이 효과를<br></br>반복합니다.",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "불타는 군단에 비해 심하게 약세였던 드레나이는 살아남을 가망이 없었습니다... 그런데 아코나이트 수정이 발명되면서 상황이 바뀌었죠. 하타루와 기술병들에게, 사람들에게 힘을 실어 줄 방법이 생긴 것입니다.",
+    "spellSchool": "",
+    "portrait": "HS33-031_M.tif:cd806db099a041879e165fdf9be149b7",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAENEI"
+    ],
+    "race": "드레나이",
+    "classes": [],
+    "art": "art/GDB_136.png"
+  }
+}

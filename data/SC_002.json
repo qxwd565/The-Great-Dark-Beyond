@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_002","dbfId":112830,"name":"감염충","type":"MINION","cardClass":"DEATHKNIGHT","rarity":"RARE","collectible":true,"cost":3,"text":"<b>죽음의 메아리:</b>\n이번 게임 동안 내 저그\n하수인들이 공격력을 +1\n얻습니다.","attack":4,"health":2,"durability":0,"armor":0,"flavor":"설령 신경 기생충에 감염되어 살아남는다 해도, 결코 그 사실을 잊고 살지 못할 겁니다.","spellSchool":"","portrait":"HS33-306_M.tif:0e1b6be58f5343878202089315a1e1ce","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":1},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1724,"name":"게임 태그 1724","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":3457,"name":"저그","value":1}],"races":[],"race":"","classes":[],"art":"art/SC_002.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-306_M.tif:0e1b6be58f5343878202089315a1e1ce","goldenMaterial":"SC_002_PremiumCard.mat:15087030ca7c43d4b8a8945289f376a2","goldenAnimation":"SC_002_PremiumCard.asset:f9491011dbf3e2d4ca38415839543110"}}
+{
+  "2025-01-22": {
+    "id": "SC_002",
+    "dbfId": 112830,
+    "name": "감염충",
+    "type": "MINION",
+    "cardClass": "DEATHKNIGHT",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>죽음의 메아리:</b><br></br>이번 게임 동안 내 저그<br></br>하수인들이 공격력을 +1<br></br>얻습니다.",
+    "attack": 4,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "설령 신경 기생충에 감염되어 살아남는다 해도, 결코 그 사실을 잊고 살지 못할 겁니다.",
+    "spellSchool": "",
+    "portrait": "HS33-306_M.tif:0e1b6be58f5343878202089315a1e1ce",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3457,
+        "name": "저그",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SC_002.png"
+  }
+}

@@ -1,1 +1,58 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_840t","dbfId":112024,"name":"알에서 나온 괴물","type":"MINION","cardClass":"HUNTER","collectible":false,"cost":4,"text":"","attack":3,"health":5,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS33-157_M.tif:e1876b9a82f542ee86b7a303844a0693","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/GDB_840t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-157_M.tif:e1876b9a82f542ee86b7a303844a0693","goldenMaterial":"GDB_840t_PremiumCard.mat:271d3951905dfc94490d973dc38ee762","goldenAnimation":"GDB_840t_PremiumCard.asset:1ca92636ab5faef47ade719e03e53400"}}
+{
+  "2024-11-06": {
+    "id": "GDB_840t",
+    "dbfId": 112024,
+    "name": "알에서 나온 괴물",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "collectible": false,
+    "cost": 4,
+    "text": "",
+    "attack": 3,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS33-157_M.tif:e1876b9a82f542ee86b7a303844a0693",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/GDB_840t.png"
+  }
+}

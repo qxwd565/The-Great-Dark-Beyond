@@ -1,1 +1,71 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_751t","dbfId":113732,"name":"광전사","type":"MINION","cardClass":"INVALID","collectible":false,"cost":3,"text":"<b>돌진</b>","attack":3,"health":4,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS33-324_M.tif:2cc8b003ef6f45fd86d2ed5c521b777e","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":197,"name":"돌진","value":1},{"id":202,"name":"카드 유형","value":4},{"id":476,"name":"복수 직업","value":106},{"id":1824,"name":"미니 세트","value":1},{"id":3469,"name":"프로토스","value":1}],"races":[],"race":"","classes":["DRUID","MAGE","PRIEST","ROGUE"],"art":"art/SC_751t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-324_M.tif:2cc8b003ef6f45fd86d2ed5c521b777e","goldenMaterial":"SC_751t_PremiumCard.mat:87946dcba6510024aa7a93e0cc8e138b","goldenAnimation":"SC_751t_PremiumCard.asset:0f941dbf6941ee5479c86f4cfdc29c58"}}
+{
+  "2025-01-22": {
+    "id": "SC_751t",
+    "dbfId": 113732,
+    "name": "광전사",
+    "type": "MINION",
+    "cardClass": "INVALID",
+    "collectible": false,
+    "cost": 3,
+    "text": "<b>돌진</b>",
+    "attack": 3,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS33-324_M.tif:2cc8b003ef6f45fd86d2ed5c521b777e",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 197,
+        "name": "돌진",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 106
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3469,
+        "name": "프로토스",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "DRUID",
+      "MAGE",
+      "PRIEST",
+      "ROGUE"
+    ],
+    "art": "art/SC_751t.png"
+  }
+}

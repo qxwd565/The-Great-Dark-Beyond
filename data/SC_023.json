@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SC_023","dbfId":113673,"name":"가시 촉수","type":"MINION","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>도발.</b> 공격할 수 없습니다.\n내 전장에 장소가 있으면,\n공격력을 +3 얻습니다.","attack":1,"health":6,"durability":0,"armor":0,"flavor":"1초만 기다려. 뿌리 내리고 있으니까! ...1초만 더 기다리자. 거의 다 됐어!","spellSchool":"","portrait":"HS33-316_M.tif:ad635fbef44541119ed18f9578f76f4a","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":2},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1724,"name":"게임 태그 1724","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":3457,"name":"저그","value":1}],"races":[],"race":"","classes":[],"art":"art/SC_023.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-316_M.tif:ad635fbef44541119ed18f9578f76f4a","goldenMaterial":"SC_023_PremiumCard.mat:5266863e2554d384ab98ce4bdb17f10d","goldenAnimation":"SC_023_PremiumCard.asset:a94a3a8aedb3c5647ba0e5f64b1dfcb8"}}
+{
+  "2025-01-22": {
+    "id": "SC_023",
+    "dbfId": 113673,
+    "name": "가시 촉수",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>도발.</b> 공격할 수 없습니다.<br></br>내 전장에 장소가 있으면,<br></br>공격력을 +3 얻습니다.",
+    "attack": 1,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "1초만 기다려. 뿌리 내리고 있으니까! ...1초만 더 기다리자. 거의 다 됐어!",
+    "spellSchool": "",
+    "portrait": "HS33-316_M.tif:ad635fbef44541119ed18f9578f76f4a",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3457,
+        "name": "저그",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SC_023.png"
+  }
+}

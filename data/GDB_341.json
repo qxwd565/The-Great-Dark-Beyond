@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"GDB_341","dbfId":112062,"name":"적색 거인","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":8,"text":"손에 있는 동안 낸\n옆의 카드 하나당 비용이 (1)씩 감소합니다.","attack":8,"health":8,"durability":0,"armor":0,"flavor":"옆에서 수많은 카드들이 오가지만, 진짜 스타는 이 친구입니다.","spellSchool":"","portrait":"HS33-111_M.tif:ed254fb610254687b62984d50b66a307","set":"SPACE","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":8},{"id":48,"name":"마나 비용","value":8},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/GDB_341.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS33-111_M.tif:ed254fb610254687b62984d50b66a307","goldenMaterial":"GDB_341_PremiumCard.mat:4f79b5afc7417cc42883a3699d27d044","goldenAnimation":"GDB_341_PremiumCard.asset:fcc6e57cafcc8834aa67640bda60acf0"}}
+{
+  "2024-11-06": {
+    "id": "GDB_341",
+    "dbfId": 112062,
+    "name": "적색 거인",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 8,
+    "text": "손에 있는 동안 낸<br></br>옆의 카드 하나당 비용이 (1)씩 감소합니다.",
+    "attack": 8,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "옆에서 수많은 카드들이 오가지만, 진짜 스타는 이 친구입니다.",
+    "spellSchool": "",
+    "portrait": "HS33-111_M.tif:ed254fb610254687b62984d50b66a307",
+    "set": "SPACE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/GDB_341.png"
+  }
+}
